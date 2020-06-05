@@ -15,7 +15,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/apps/ng-test-app",
+            "outputPath": "dist/ng-test-app/browser",
             "index": "apps/ng-test-app/src/index.html",
             "main": "apps/ng-test-app/src/main.ts",
             "polyfills": "apps/ng-test-app/src/polyfills.ts",
@@ -93,6 +93,60 @@
             "tsConfig": "apps/ng-test-app/tsconfig.spec.json",
             "passWithNoTests": true,
             "setupFile": "apps/ng-test-app/src/test-setup.ts"
+          }
+        },
+        "server": {
+          "builder": "@angular-devkit/build-angular:server",
+          "options": {
+            "outputPath": "dist/ng-test-app/server",
+            "main": "apps/ng-test-app/server.ts",
+            "tsConfig": "apps/ng-test-app/tsconfig.server.json",
+            "externalDependencies": [
+              "@nestjs/microservices",
+              "@nestjs/microservices/microservices-module",
+              "@nestjs/websockets",
+              "@nestjs/websockets/socket-module",
+              "cache-manager"
+            ]
+          },
+          "configurations": {
+            "production": {
+              "outputHashing": "media",
+              "fileReplacements": [
+                {
+                  "replace": "apps/ng-test-app/src/environments/environment.ts",
+                  "with": "apps/ng-test-app/src/environments/environment.prod.ts"
+                }
+              ],
+              "sourceMap": false,
+              "optimization": false
+            }
+          }
+        },
+        "serve-ssr": {
+          "builder": "@nguniversal/builders:ssr-dev-server",
+          "options": {
+            "browserTarget": "ng-test-app:build",
+            "serverTarget": "ng-test-app:server"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "ng-test-app:build:production",
+              "serverTarget": "ng-test-app:server:production"
+            }
+          }
+        },
+        "prerender": {
+          "builder": "@nguniversal/builders:prerender",
+          "options": {
+            "browserTarget": "ng-test-app:build:production",
+            "serverTarget": "ng-test-app:server:production",
+            "routes": [
+              "/"
+            ]
+          },
+          "configurations": {
+            "production": {}
           }
         }
       }
