@@ -25,7 +25,9 @@
               "apps/ng-test-app/src/favicon.ico",
               "apps/ng-test-app/src/assets"
             ],
-            "styles": ["apps/ng-test-app/src/styles.scss"],
+            "styles": [
+              "apps/ng-test-app/src/styles.scss"
+            ],
             "scripts": []
           },
           "configurations": {
@@ -83,7 +85,10 @@
               "apps/ng-test-app/tsconfig.app.json",
               "apps/ng-test-app/tsconfig.spec.json"
             ],
-            "exclude": ["**/node_modules/**", "!apps/ng-test-app/**"]
+            "exclude": [
+              "**/node_modules/**",
+              "!apps/ng-test-app/**"
+            ]
           }
         },
         "test": {
@@ -172,15 +177,21 @@
         "lint": {
           "builder": "@angular-devkit/build-angular:tslint",
           "options": {
-            "tsConfig": ["apps/ng-test-app-e2e/tsconfig.e2e.json"],
-            "exclude": ["**/node_modules/**", "!apps/ng-test-app-e2e/**"]
+            "tsConfig": [
+              "apps/ng-test-app-e2e/tsconfig.e2e.json"
+            ],
+            "exclude": [
+              "**/node_modules/**",
+              "!apps/ng-test-app-e2e/**"
+            ]
           }
         }
       }
     }
   },
   "cli": {
-    "defaultCollection": "@nrwl/angular"
+    "defaultCollection": "@nrwl/angular",
+    "analytics": false
   },
   "schematics": {
     "@nrwl/angular:application": {
