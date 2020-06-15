@@ -2,7 +2,7 @@
 const awsServerlessExpress = require('aws-serverless-express');
 const awsServerlessExpressMiddleware = require('aws-serverless-express/middleware');
 
-const server = require('./dist/server');
+const server = require('./dist/ng-test-app/server/main');
 
 const app = server.app();
 

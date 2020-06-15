@@ -5,17 +5,19 @@ provider:
   runtime: nodejs10.x
   memorySize: 128
   timeout: 10
-  stage: dev-new
+  profile: dev-new
+  stage: dev
   region: eu-west-2
 
 package:
   exclude:
-   - src/**
-   - node_modules/**
-   - firebug-lite/**
-   - e2e/**
-   - coverage/**
-   - '!node_modules/aws-serverless-express/**'
+   - apps/**
+   #- node_modules/**
+   - libs/**
+   - tools/**
+   - '*.json'
+   - '*.config.js'
+   #- '!node_modules/aws-serverless-express/**'
 
 functions:
   ssr:
