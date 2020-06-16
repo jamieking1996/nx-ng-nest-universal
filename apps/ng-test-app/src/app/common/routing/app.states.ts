@@ -1,6 +1,7 @@
 import { Route } from '@angular/router';
 import { HomeComponent } from '../../components/home/home.component';
 import { BlogsComponent } from '../../components/blogs/blogs.component';
+import { BlogGuard } from './blog.guard';
 
 export const rootState: Route = {
     path: '',
@@ -9,7 +10,8 @@ export const rootState: Route = {
 
 export const blogsState:Route = {
     path: 'blogs',
-    component: BlogsComponent
+    component: BlogsComponent,
+    canActivate: [BlogGuard]
 }
 
 
