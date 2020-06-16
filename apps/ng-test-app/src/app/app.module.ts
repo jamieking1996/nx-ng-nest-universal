@@ -13,9 +13,10 @@ import { appReducer } from './common/store/app.reducer';
 import { AppEffects } from './common/store/app.effects';
 import { HttpClientModule } from '@angular/common/http';
 import {APP_BASE_HREF} from '@angular/common';
+import { HeaderComponent } from './components/header/header.component';
 
 @NgModule({
-  declarations: [AppComponent, HomeComponent, BlogsComponent],
+  declarations: [AppComponent, HomeComponent, BlogsComponent, HeaderComponent],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
     HttpClientModule,

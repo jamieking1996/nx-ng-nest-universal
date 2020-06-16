@@ -1,1 +1,3 @@
-<p>blogs works!</p>
+<ul *ngFor="let blog of blogs | async">
+    <li>{{ blog.title }}</li>
+</ul>

@@ -1,17 +1,17 @@
 import { createReducer, on } from '@ngrx/store';
-import { UpdateUserSuccess } from './app.actions';
+import { UpdateUserSuccess, GetBlogsSuccess } from './app.actions';
 
 const initialState = {
-	user: null
+	blogs: null
 }
 
-const userFeatureReducer = on(UpdateUserSuccess, (state: any, { user }): any => {
-    return Object.assign({}, state, { user: user });
+const blogsFeatureReducer = on(GetBlogsSuccess, (state: any, { blogs }): any => {
+    return Object.assign({}, state, { blogs: blogs });
 });
 
 const featureReducer = createReducer(
 	initialState,
-	userFeatureReducer
+	blogsFeatureReducer
 );
 
 export function appReducer(state: any = initialState, action: any) {
