@@ -25,6 +25,7 @@
               "apps/ng-test-app/src/favicon.ico",
               "apps/ng-test-app/src/assets"
             ],
+            "deployUrl": "/dev/",
             "styles": [
               "apps/ng-test-app/src/styles.scss"
             ],

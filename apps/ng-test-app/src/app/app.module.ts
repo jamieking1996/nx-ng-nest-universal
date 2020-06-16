@@ -12,6 +12,7 @@ import { BlogsComponent } from './components/blogs/blogs.component';
 import { appReducer } from './common/store/app.reducer';
 import { AppEffects } from './common/store/app.effects';
 import { HttpClientModule } from '@angular/common/http';
+import {APP_BASE_HREF} from '@angular/common';
 
 @NgModule({
   declarations: [AppComponent, HomeComponent, BlogsComponent],
@@ -26,7 +27,7 @@ import { HttpClientModule } from '@angular/common/http';
       maxAge: 25
     }),
   ],
-  providers: [],
+  providers: [{provide: APP_BASE_HREF, useValue: '/dev'}],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
