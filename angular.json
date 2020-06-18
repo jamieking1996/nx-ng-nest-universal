@@ -11,18 +11,6 @@
       "root": "apps/ng-test-app",
       "sourceRoot": "apps/ng-test-app/src",
       "prefix": "nx-ng-nest-universal",
-      "i18n": {
-        "sourceLocale": {
-          "code": "en-GB",
-          "baseHref": ""
-        },
-        "locales": {
-          "hr": {
-            "translation": "apps/ng-test-app/messages.hr.xlf",
-            "baseHref": ""
-          }
-        }
-      },
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
@@ -73,7 +61,11 @@
               ]
             },
             "hr": {
-              "localize": ["hr"]
+              "aot": true,
+              "i18nFile": "apps/ng-test-app/messages.hr.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "hr",
+              "i18nMissingTranslation": "error"
             }
           }
         },
@@ -141,6 +133,12 @@
               ],
               "sourceMap": false,
               "optimization": false
+            },
+            "hr": {
+              "i18nFile": "apps/ng-test-app/messages.hr.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "hr",
+              "i18nMissingTranslation": "error"
             }
           }
         },
@@ -156,7 +154,8 @@
               "serverTarget": "ng-test-app:server:production"
             },
             "hr": {
-              "browserTarget": "ng-test-app:build:hr"
+              "browserTarget": "ng-test-app:build:hr",
+              "serverTarget": "ng-test-app:server:hr"
             }
           }
         },
