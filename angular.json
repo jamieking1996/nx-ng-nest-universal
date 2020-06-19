@@ -62,6 +62,9 @@
               ]
             },
             "hr": {
+              "outputPath": "dist/ng-test-app/browser/hr",
+              "deployUrl": "/hr/",
+              "baseHref": "/hr/",
               "aot": true,
               "i18nFile": "apps/ng-test-app/messages.hr.xlf",
               "i18nFormat": "xlf",
