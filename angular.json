@@ -139,6 +139,21 @@
               "i18nFormat": "xlf",
               "i18nLocale": "hr",
               "i18nMissingTranslation": "error"
+            },
+            "hr-prod": {
+              "outputHashing": "media",
+              "fileReplacements": [
+                {
+                  "replace": "apps/ng-test-app/src/environments/environment.ts",
+                  "with": "apps/ng-test-app/src/environments/environment.prod.ts"
+                }
+              ],
+              "sourceMap": false,
+              "optimization": false,
+              "i18nFile": "apps/ng-test-app/messages.hr.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "hr",
+              "i18nMissingTranslation": "error"
             }
           }
         },

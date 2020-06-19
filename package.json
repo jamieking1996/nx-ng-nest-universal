@@ -30,7 +30,8 @@
     "serve:ssr": "node dist/ng-test-app/server/main.js",
     "build:ssr": "ng build --prod && ng run ng-test-app:server:production",
     "prerender": "ng run ng-test-app:prerender",
-    "prebuild:ssr": "ngcc"
+    "prebuild:ssr": "ngcc",
+    "ng-test-app-hr-build": "ng build --configuration=production,hr && ng run ng-test-app:server:hr-prod"
   },
   "private": true,
   "dependencies": {
