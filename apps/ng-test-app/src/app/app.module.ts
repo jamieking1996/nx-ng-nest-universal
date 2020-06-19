@@ -14,9 +14,10 @@ import { AppEffects } from './common/store/app.effects';
 import { HttpClientModule } from '@angular/common/http';
 import {APP_BASE_HREF} from '@angular/common';
 import { HeaderComponent } from './components/header/header.component';
+import { MetaTagsComponent } from './components/meta-tags/meta-tags.component';
 
 @NgModule({
-  declarations: [AppComponent, HomeComponent, BlogsComponent, HeaderComponent],
+  declarations: [AppComponent, HomeComponent, BlogsComponent, HeaderComponent, MetaTagsComponent],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
     HttpClientModule,
