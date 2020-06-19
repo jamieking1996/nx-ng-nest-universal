@@ -12,7 +12,6 @@ import { BlogsComponent } from './components/blogs/blogs.component';
 import { appReducer } from './common/store/app.reducer';
 import { AppEffects } from './common/store/app.effects';
 import { HttpClientModule } from '@angular/common/http';
-import {APP_BASE_HREF} from '@angular/common';
 import { HeaderComponent } from './components/header/header.component';
 import { MetaTagsComponent } from './components/meta-tags/meta-tags.component';
 
@@ -29,7 +28,7 @@ import { MetaTagsComponent } from './components/meta-tags/meta-tags.component';
       maxAge: 25
     }),
   ],
-  providers: [{provide: APP_BASE_HREF, useValue: '/dev'}],
+  providers: [],
   bootstrap: [AppComponent],
 })
 export class AppModule {}

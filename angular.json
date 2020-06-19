@@ -33,6 +33,7 @@
           "configurations": {
             "production": {
               "deployUrl": "/dev/",
+              "baseHref": "/dev/",
               "fileReplacements": [
                 {
                   "replace": "apps/ng-test-app/src/environments/environment.ts",
