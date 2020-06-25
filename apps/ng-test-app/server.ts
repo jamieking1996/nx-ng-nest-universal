@@ -4,6 +4,8 @@
 import '@angular/localize/init';
 import 'zone.js/dist/zone-node';
 
+global['TinCan'] = require('tincanjs');
+
 import { ngExpressEngine } from '@nguniversal/express-engine';
 import * as express from 'express';
 import { join } from 'path';

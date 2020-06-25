@@ -28,7 +28,7 @@
             "styles": [
               "apps/ng-test-app/src/styles.scss"
             ],
-            "scripts": []
+            "scripts": ["node_modules/tincanjs/build/tincan-min.js"]
           },
           "configurations": {
             "production": {
