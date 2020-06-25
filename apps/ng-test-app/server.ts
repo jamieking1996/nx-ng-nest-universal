@@ -16,7 +16,7 @@ import { environment } from './src/environments/environment';
 // The Express app is exported so that it can be used by serverless Functions.
 export function app(locale) {
   const server = express();
-  const distFolder = join(process.cwd(), `dist/ng-test-app/browser/${locale}`);
+  const distFolder = locale === 'en-GB' ? join(process.cwd(), `dist/ng-test-app/browser`) : join(process.cwd(), `dist/ng-test-app/browser/${locale}`);
   const indexHtml = existsSync(join(distFolder, 'index.original.html')) ? 'index.original.html' : 'index';
 
   // Our Universal express-engine (found @ https://github.com/angular/universal/tree/master/modules/express-engine)
@@ -43,21 +43,21 @@ export function app(locale) {
 }
 
 
-function localApp() {
-  const server = express();
+// function localApp() {
+//   const server = express();
 
-  ['hr'].forEach((locale) => {
-    server.use(`/${locale}`, app(locale));
-  });
+//   ['hr'].forEach((locale) => {
+//     server.use(`/${locale}`, app(locale));
+//   });
 
-  return server;
-}
+//   return server;
+// }
 
 function run() {
   const port = process.env.PORT || 4000;
 
   // Start up the Node server
-  const server = localApp();
+  const server = app('en-GB');
   server.listen(port, () => {
     console.log(`Node Express server listening on http://localhost:${port}`);
   });

@@ -70,6 +70,42 @@
               "i18nFormat": "xlf",
               "i18nLocale": "hr",
               "i18nMissingTranslation": "error"
+            },
+            "hr-prod": {
+              "fileReplacements": [
+                {
+                  "replace": "apps/ng-test-app/src/environments/environment.ts",
+                  "with": "apps/ng-test-app/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ],
+              "outputPath": "dist/ng-test-app/browser/hr",
+              "deployUrl": "/dev/hr/",
+              "baseHref": "/dev/hr/",
+              "aot": true,
+              "i18nFile": "apps/ng-test-app/messages.hr.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "hr",
+              "i18nMissingTranslation": "error"
             }
           }
         },
