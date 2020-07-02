@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://goodthingsfoundation.knowblyapp.com/5ef9f81c45e26500613f4921" type="http://adlnet.gov/expapi/activities/course">
+			<name>Attaching a document to an email</name>
+			<description lang="en-US">You can send documents to people's email addresses. Here's how.</description>
+			<launch lang="en-us">scormdriver/indexAPI.html</launch>
+		</activity>
+	</activities>
+</tincan>

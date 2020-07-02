@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<!--/* Copyright � 2003-2013 Rustici Software, LLC  All Rights Reserved. www.scorm.com - See LICENSE.txt for usage restrictions */-->
+    <head>
+        <title></title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
+        <style type="text/css">
+            body, html {
+                margin: 0;
+                padding: 0;
+                height: 100%;
+                overflow: hidden;
+            }
+            #content {
+                position: fixed;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                left: 0;
+            }
+            #content-frame {
+                width: 1px;
+                min-width: 100%;
+            }
+        </style>
+
+        <script type="text/javascript">
+            window.resizeTo(screen.width, screen.height);
+        </script>
+        <script language="JavaScript1.2" src="scormdriver.js"></script>
+        <script language="JavaScript1.2">
+            strContentLocation = "../scormcontent/index.html";
+
+            var framesReady = 0;
+
+            function framesReadyCount() {
+                framesReady++;
+
+                if (framesReady == window.frames.length) {
+                    window.Start();
+                }
+            }
+            function LoadContent(){
+                var isAicc = false;
+
+                strTemp = GetQueryStringValue("AICC_URL", document.location.search);
+
+                if (strTemp!=null && strTemp!="") {
+                    isAicc = true;
+                }
+
+                if (IsLoaded() || !isAicc) {
+                    var bookmark = GetBookmark();
+
+                    if (bookmark != "") {
+                        window.scormdriver_content.document.location.href = "../scormcontent/" + bookmark;
+                    } else {
+                        window.scormdriver_content.document.location.href = strContentLocation;
+                    }
+                } else {
+                    setTimeout(LoadContent(), 500);
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <div id="content">
+            <iframe name="scormdriver_content" id="content-frame" width="100%" height="100%" scrolling="no" frameborder="0" src="blank.html" onload="framesReadyCount()" allowfullscreen></iframe>
+            <iframe name="rusticisoftware_aicc_results" src="blank.html" frameborder="0" onload="framesReadyCount()" style="display: none;"></iframe>
+            <iframe name="NothingFrame" src="blank.html" frameborder="0" onload="framesReadyCount()" style="display: none;"></iframe>
+        </div>
+
+        <script type="text/javascript">
+            window.scormdriver_content = window.frames['scormdriver_content'];
+            window.rusticisoftware_aicc_results = window.frames['rusticisoftware_aicc_results'];
+            window.NothingFrame = window.frames['NothingFrame'];
+        </script>
+  </body>
+</html>
