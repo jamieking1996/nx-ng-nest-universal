@@ -1,0 +1,225 @@
+.btn-shadow(@color) {
+  #gradient > .vertical-three-colors(lighten(@color, 6%), @color, 60%, darken(@color, 4%));
+  filter: none;
+}
+
+.btn-shadow-inverse(@color) {
+  #gradient > .vertical-three-colors(darken(@color, 24%), darken(@color, 18%), 40%, darken(@color, 14%));
+  filter: none;
+}
+
+.bgRepeater{
+	margin: 0 auto;
+}
+
+html{
+	overflow-y: auto;
+	overflow-x: hidden;
+	max-width: 100%;
+}
+
+/* endscreen button padding*/
+.endScreenWrapper a.btn-primary{
+	padding: 0px;
+}
+
+.endScreenWrapper a.btn{
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+
+.browserCloseButton{
+	padding-left: 8px;
+	padding-right: 8px;
+	line-height: 28px;
+	background-image: none;
+	right: 0px;
+	width: auto;
+	left: initial !important;
+	font-size: 16px;
+}
+.browserCloseButton:before{	
+	content: 'x';	
+	font-size: 14px;
+	vertical-align: middle;
+	color: #333;
+}
+.windowContainer span.headerTitle{
+	font-size: 18px;
+	vertical-align: middle;
+	display: inline-block;
+	line-height: 30px;
+	color: #2C5988;
+	margin-left: 5px;
+}
+.windowContainer{
+	box-shadow: 1px 1px 5px 1px #333;
+	-webkit-box-shadow: 1px 1px 5px 1px #333;
+	-webkit-appearance: none;	
+	border: 0;
+	border-radius: 0px !important;
+}
+html.on-device .windowContainer{
+	border-radius: 1px !important;
+}
+#searchBrowserContainer{
+	width: 100%;
+	max-width: 100%;
+	height: 100%;
+	max-height: 100%;
+	left: 0px !important;
+	right: 0px !important;
+	bottom: 0px !important;
+}
+#searchBrowserContainer .browserContentContainer{
+	top: 31px;
+}
+.windowContainer div.browserHeader{
+	height: 30px;
+	line-height: 30px;
+	background-image: none;
+	background-color: #f2f2f2;
+	border-bottom: 1px solid #ccc;
+	color: #2C5988;
+}
+
+.tooltipster-base{
+	z-index: @zindex-navbar-fixed + 1;
+}
+
+.windowContainer, .viewContainer{
+	z-index: 1500;
+}
+
+/*prevent BG application to the page
+.pageElementsWrapper{
+	background-image: none !important;
+}
+*/
+
+.incorrect {
+	margin-left: 0;
+}
+#contentFrame, .page_wrapper{
+	margin: auto;
+}
+
+.feedbackWrapper {
+	left: auto;
+	right:auto;
+	webkit-overflow-scrolling: auto;
+
+}
+.feedbackContainer.modal {
+	display:block;
+}
+
+.modal-header .close {
+	margin-top:-10px;
+}
+
+
+html.theme-editor .wcag-badge{
+	@url: "../resources/wcag.png?version=";
+	@path: "@{url}@{cache-version}";
+	background-image: url(@path);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center center;
+	width: 50px;	
+	height: 50px;
+	position: absolute !important;
+	top: 60px;
+	right: 5px;
+}
+
+#navbar_logo{
+	@url: "../resources/logo.png?version=";
+	@path: "@{url}@{cache-version}";
+	background-image: url(@path);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center center;
+	width: 100px;	
+	height: 100%;
+}
+
+.navbar-brand{
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+}
+
+*:focus { outline: none !important; }
+
+body.show-focus-outlines *:focus when (@kb-focus-enabled = true){
+	&, .modal-dialog{
+		outline: @kb-focus-width @kb-focus-style @kb-focus-color !important;
+	}
+}
+
+.player_background_default{
+	@url: "../resources/backgrounds/default.png?version=";
+	@path: "@{url}@{cache-version}";
+	background-image: url(@path);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;	
+	background-attachment: fixed;
+	background-color: @body-bg;
+	color: @text-color;
+}
+
+.introduction_background{
+	@url: "../resources/backgrounds/introduction.png?version=";
+	@path: "@{url}@{cache-version}";
+	background-image: url(@path);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;	
+	background-attachment: fixed;
+	background-color: @introduction-bg-color;
+	color: @introduction-text-color;
+}
+
+.content_background{
+	@url: "../resources/backgrounds/content.png?version=";
+	@path: "@{url}@{cache-version}";
+	background-image: url(@path);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;	
+	background-attachment: fixed;
+	background-color: @content-bg-color;
+	color: @content-text-color;
+}
+
+.assessment_background{
+	@url: "../resources/backgrounds/assessment.png?version=";
+	@path: "@{url}@{cache-version}";
+	background-image: url(@path);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;	
+	background-attachment: fixed;
+	background-color: @assessment-bg-color;
+	color: @assessment-text-color;
+}
+
+.summary_background{
+	@url: "../resources/backgrounds/summary.png?version=";
+	@path: "@{url}@{cache-version}";
+	background-image: url(@path);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;	
+	background-attachment: fixed;
+	background-color: @summary-bg-color;
+	color: @summary-text-color;
+}
+div.zoomToFitChecker{
+	display: none;
+}
+div.zoomToFitChecker when (@zoomtofit = true){
+	display: block;
+}

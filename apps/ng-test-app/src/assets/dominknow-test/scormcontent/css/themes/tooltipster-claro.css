@@ -1,0 +1,17 @@
+.tooltipster-claro {
+	border-radius: 2px; 
+	border: 1px solid #ccc;
+	box-shadow: 1px 3px 15px -1px #333;
+	background: #fff;
+	color: #333;	
+}
+.tooltipster-claro .tooltipster-content {	
+	line-height: 100%;
+	padding: 0px;
+	max-height: 500px;
+	overflow-y: auto;
+}
+
+.tooltipster-claro .tooltipster-content .tooltip-header{
+	border-bottom: 1px solid #ccc;
+}

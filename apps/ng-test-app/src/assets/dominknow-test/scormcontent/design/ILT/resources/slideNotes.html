@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2 id="title"></h2>
+<hr>
+<div id="note"></div>
+</body>
+<script>
+var title = document.getElementById("title");
+var note = document.getElementById("note");
+title.innerHTML = window.opener.DKI.strings.runtime.notesLabel;
+window.opener.$(window.opener.document).on(window.opener.DKI.ContentPage.events.started, function(e, page){			
+if(typeof page.page.pageNote != "undefined"){
+note.innerHTML = page.page.pageNote.body;
+}
+else{
+note.innerHTML = "";
+}
+});
+</script>
+</html>

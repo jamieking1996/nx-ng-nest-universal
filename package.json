@@ -39,6 +39,7 @@
     "@angular/common": "^9.1.0",
     "@angular/compiler": "^9.1.0",
     "@angular/core": "^9.1.0",
+    "@angular/elements": "^9.1.9",
     "@angular/forms": "^9.1.0",
     "@angular/localize": "^9.1.11",
     "@angular/platform-browser": "^9.1.0",
@@ -58,10 +59,12 @@
     "class-transformer": "^0.2.3",
     "class-validator": "^0.9.1",
     "core-js": "^2.5.4",
+    "document-register-element": "^1.7.2",
     "express": "^4.15.2",
     "reflect-metadata": "^0.1.13",
     "rxjs": "~6.5.4",
     "tincanjs": "^0.50.0",
+    "xapiwrapper": "^1.11.0",
     "zone.js": "^0.10.2"
   },
   "devDependencies": {

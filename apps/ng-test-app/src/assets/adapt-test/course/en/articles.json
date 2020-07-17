@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Article title",
+    "displayTitle": "Article title",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "5f05eb7405413b24f91ff869",
+    "_parentId": "5f05eb7405413b24f91ff868",
+    "_type": "article",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  }
+]

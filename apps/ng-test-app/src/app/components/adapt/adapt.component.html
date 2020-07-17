@@ -1,0 +1,10 @@
+<h1>Adapt example</h1>
+<!-- <button (click)="sendStatement()">Save xAPI statement</button> -->
+<button (click)="deleteStatement()">Delete statement</button>
+<button (click)="deleteState()">Delete state</button>
+<button (click)="getState()">Get state</button>
+
+<br>
+<div *ngIf="isPlatformBrowser()">
+    <iframe #iframe src="/assets/adapt-test/index.html" style="width:100%; height:700px;" (load)="addxApiWrapper()"></iframe>
+</div>

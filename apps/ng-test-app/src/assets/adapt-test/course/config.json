@@ -1,0 +1,116 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_id": "5f05eb71a346885f34d09a93",
+  "_courseId": "5f05eb71a346885f34d09a92",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "_accessibility": {
+    "_isEnabled": true,
+    "_isDisabledOnTouchDevices": false,
+    "_isTextProcessorEnabled": true,
+    "_isSkipNavigationEnabled": true
+  },
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024
+  },
+  "_completionCriteria": {
+    "_requireContentCompleted": true,
+    "_requireAssessmentCompleted": false
+  },
+  "__v": 0,
+  "_languagePicker": {
+    "_isEnabled": false,
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "_showOnCourseLoad": true,
+    "_languagePickerIconClass": "icon-language-2",
+    "_classes": "",
+    "_languages": [
+      {
+        "_language": "en",
+        "_direction": "ltr",
+        "displayName": "en",
+        "_buttons": {
+          "no": "No",
+          "yes": "Yes"
+        }
+      }
+    ],
+    "_accessibility": {
+      "accessibilityToggleTextOn": "Turn accessibility on?",
+      "accessibilityToggleTextOff": "Turn accessibility off?",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use right for next. Use left for previous. Use up and down together to select."
+      },
+      "_ariaLabels": {
+        "navigation": "A short description of the course navigation bar."
+      }
+    }
+  },
+  "_trickle": {
+    "_completionAttribute": "_isComplete"
+  },
+  "_xapi": {
+    "_isEnabled": true,
+    "_specification": "xAPI",
+    "_activityID": "",
+    "_endpoint": "",
+    "_user": "",
+    "_password": "",
+    "_lang": "en-US",
+    "_generateIds": false,
+    "_shouldTrackState": true,
+    "_shouldUseRegistration": false,
+    "_componentBlacklist": "blank,graphic",
+    "_coreEvents": {
+      "Adapt": {
+        "router:menu": false,
+        "router:page": false,
+        "questionView:recordInteraction": false,
+        "assessments:complete": true
+      },
+      "contentObjects": {
+        "change:_isComplete": false
+      },
+      "articles": {
+        "change:_isComplete": false
+      },
+      "blocks": {
+        "change:_isComplete": false
+      },
+      "components": {
+        "change:_isComplete": false
+      }
+    },
+    "_lrsFailureBehaviour": "show"
+  },
+  "build": {
+    "includes": [
+      "5efb30230d955f585ae93641-5f05eb71a346885f34d09a92",
+      "adapt-contrib-assistedLearning",
+      "adapt-contrib-xapi",
+      "adapt-contrib-trickle",
+      "adapt-contrib-ios-frameset",
+      "adapt-contrib-tutor",
+      "adapt-contrib-languagePicker",
+      "adapt-contrib-openTextInput",
+      "adapt-contrib-narrative",
+      "adapt-contrib-hiddenHotspots",
+      "adapt-contrib-text",
+      "adapt-contrib-gmcq",
+      "adapt-contrib-mcq"
+    ]
+  }
+}

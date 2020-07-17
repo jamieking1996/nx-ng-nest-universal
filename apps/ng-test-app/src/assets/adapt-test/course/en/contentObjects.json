@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Page title 1",
+    "displayTitle": "Page title 1",
+    "body": "",
+    "_classes": "",
+    "_lockType": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "5f05eb7405413b24f91ff868",
+    "_parentId": "course",
+    "_type": "page"
+  }
+]

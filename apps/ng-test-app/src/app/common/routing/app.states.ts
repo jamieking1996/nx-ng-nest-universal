@@ -2,6 +2,7 @@ import { Route } from '@angular/router';
 import { HomeComponent } from '../../components/home/home.component';
 import { BlogsComponent } from '../../components/blogs/blogs.component';
 import { BlogGuard } from './blog.guard';
+import { AdaptComponent } from '../../components/adapt/adapt.component';
 
 export const rootState: Route = {
     path: '',
@@ -14,5 +15,10 @@ export const blogsState:Route = {
     canActivate: [BlogGuard]
 }
 
+export const adaptState:Route = {
+    path: 'adapt',
+    component: AdaptComponent
+}
 
-export const AppStates = [rootState, blogsState];
+
+export const AppStates = [rootState, blogsState, adaptState];

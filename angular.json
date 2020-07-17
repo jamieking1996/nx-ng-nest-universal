@@ -28,7 +28,7 @@
             "styles": [
               "apps/ng-test-app/src/styles.scss"
             ],
-            "scripts": ["node_modules/tincanjs/build/tincan-min.js"]
+            "scripts": ["node_modules/tincanjs/build/tincan-min.js", "node_modules/xapiwrapper/dist/xapiwrapper.min.js"]
           },
           "configurations": {
             "production": {

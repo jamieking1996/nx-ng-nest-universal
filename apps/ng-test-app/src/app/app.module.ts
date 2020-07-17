@@ -1,8 +1,9 @@
 import { BrowserModule, BrowserTransferStateModule } from '@angular/platform-browser';
-import { NgModule } from '@angular/core';
+import { NgModule, Injector } from '@angular/core';
 import { StoreModule } from '@ngrx/store';
 import { EffectsModule } from '@ngrx/effects';
 import { StoreDevtoolsModule } from '@ngrx/store-devtools';
+import { createCustomElement } from '@angular/elements';
 
 import { AppComponent } from './app.component';
 import { HomeComponent } from './components/home/home.component';
@@ -14,9 +15,10 @@ import { AppEffects } from './common/store/app.effects';
 import { HttpClientModule } from '@angular/common/http';
 import { HeaderComponent } from './components/header/header.component';
 import { MetaTagsComponent } from './components/meta-tags/meta-tags.component';
+import { AdaptComponent } from './components/adapt/adapt.component';
 
 @NgModule({
-  declarations: [AppComponent, HomeComponent, BlogsComponent, HeaderComponent, MetaTagsComponent],
+  declarations: [AppComponent, HomeComponent, BlogsComponent, HeaderComponent, MetaTagsComponent, AdaptComponent],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
     HttpClientModule,

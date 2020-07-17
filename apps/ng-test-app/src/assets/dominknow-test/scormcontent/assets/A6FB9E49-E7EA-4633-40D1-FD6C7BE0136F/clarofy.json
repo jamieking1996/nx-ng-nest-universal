@@ -1,0 +1,295 @@
+{
+  "stepDuration": 3.0,
+  "showNarrationText": true,
+  "panAndZoom": true,
+  "showMeImageType": "HOTSPOT_ANNOTATION",
+  "jobAidFile": "dominKnowCapture_job_aid.pdf",
+  "showJobAidDownload": true,
+  "audioSprite": {},
+  "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+  "appType": "PLATFORM",
+  "name": "Attaching a document",
+  "description": "",
+  "language": "en-GB",
+  "tags": [
+    "Mac OS X"
+  ],
+  "sections": [
+    {
+      "sectionName": "Scene 1",
+      "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+      "steps": [
+        {
+          "clickCount": 1,
+          "mouseButton": 1,
+          "modifiers": [],
+          "image": "image_1_0.png",
+          "hotSpotImage": "hotspot_image_1_0.png",
+          "fullImage": "hotspot_image_1_0.png",
+          "guideMeImage": "hotspot_image_1_0.png",
+          "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+          "instructionalText": "Click on hotspot",
+          "durationForStepInMillis": 6184,
+          "startTimeInMillis": 0,
+          "hotSpot": {
+            "minX": 109.0,
+            "minY": 179.0,
+            "width": 25.0,
+            "height": 25.0
+          },
+          "markers": [],
+          "eventType": "MOUSE_CLICKED"
+        },
+        {
+          "clickCount": 1,
+          "mouseButton": 1,
+          "modifiers": [],
+          "image": "image_2_0.png",
+          "hotSpotImage": "hotspot_image_2_0.png",
+          "fullImage": "hotspot_image_2_0.png",
+          "guideMeImage": "hotspot_image_2_0.png",
+          "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+          "instructionalText": "Click on hotspot",
+          "durationForStepInMillis": 7611,
+          "startTimeInMillis": 6184,
+          "hotSpot": {
+            "minX": 1406.0,
+            "minY": 1041.0,
+            "width": 25.0,
+            "height": 25.0
+          },
+          "markers": [],
+          "eventType": "MOUSE_CLICKED"
+        },
+        {
+          "clickCount": 1,
+          "mouseButton": 1,
+          "modifiers": [],
+          "image": "image_3_0.png",
+          "hotSpotImage": "hotspot_image_3_0.png",
+          "fullImage": "hotspot_image_3_0.png",
+          "guideMeImage": "hotspot_image_3_0.png",
+          "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+          "instructionalText": "Click on hotspot",
+          "durationForStepInMillis": 6591,
+          "startTimeInMillis": 13795,
+          "hotSpot": {
+            "minX": 521.0,
+            "minY": 315.0,
+            "width": 81.0,
+            "height": 16.0
+          },
+          "markers": [],
+          "eventType": "MOUSE_CLICKED"
+        },
+        {
+          "clickCount": 1,
+          "mouseButton": 1,
+          "targetClicked": "Open",
+          "modifiers": [],
+          "image": "image_4_0.png",
+          "hotSpotImage": "hotspot_image_4_0.png",
+          "fullImage": "hotspot_image_4_0.png",
+          "guideMeImage": "hotspot_image_4_0.png",
+          "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+          "instructionalText": "Click on Open",
+          "durationForStepInMillis": 2661,
+          "startTimeInMillis": 20386,
+          "hotSpot": {
+            "minX": 1525.0,
+            "minY": 528.0,
+            "width": 25.0,
+            "height": 25.0
+          },
+          "markers": [],
+          "eventType": "MOUSE_CLICKED"
+        },
+        {
+          "clickCount": 1,
+          "mouseButton": 1,
+          "modifiers": [],
+          "image": "image_5_0.png",
+          "hotSpotImage": "hotspot_image_5_0.png",
+          "fullImage": "hotspot_image_5_0.png",
+          "guideMeImage": "hotspot_image_5_0.png",
+          "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+          "instructionalText": "Click on hotspot",
+          "durationForStepInMillis": 4753,
+          "startTimeInMillis": 23047,
+          "hotSpot": {
+            "minX": 1320.0,
+            "minY": 522.0,
+            "width": 25.0,
+            "height": 25.0
+          },
+          "markers": [],
+          "eventType": "MOUSE_CLICKED"
+        },
+        {
+          "stringTyped": "matt",
+          "reasonTypingEnded": "MOUSE_MOVED",
+          "image": "image_6_0.png",
+          "hotSpotImage": "hotspot_image_6_0.png",
+          "fullImage": "hotspot_image_6_0.png",
+          "guideMeImage": "hotspot_image_6_0.png",
+          "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+          "instructionalText": "Type:  matt\nMove Mouse",
+          "durationForStepInMillis": 5067,
+          "startTimeInMillis": 27800,
+          "hotSpot": {
+            "minX": 1352.0,
+            "minY": 571.0,
+            "width": 25.0,
+            "height": 25.0
+          },
+          "markers": [],
+          "eventType": "TYPED"
+        },
+        {
+          "clickCount": 1,
+          "mouseButton": 1,
+          "modifiers": [],
+          "image": "image_7_0.png",
+          "hotSpotImage": "hotspot_image_7_0.png",
+          "fullImage": "hotspot_image_7_0.png",
+          "guideMeImage": "hotspot_image_7_0.png",
+          "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+          "instructionalText": "Click on hotspot",
+          "durationForStepInMillis": 2434,
+          "startTimeInMillis": 32867,
+          "hotSpot": {
+            "minX": 1408.0,
+            "minY": 569.0,
+            "width": 25.0,
+            "height": 25.0
+          },
+          "markers": [],
+          "eventType": "MOUSE_CLICKED"
+        },
+        {
+          "clickCount": 1,
+          "mouseButton": 1,
+          "modifiers": [],
+          "image": "image_8_0.png",
+          "hotSpotImage": "hotspot_image_8_0.png",
+          "fullImage": "hotspot_image_8_0.png",
+          "guideMeImage": "hotspot_image_8_0.png",
+          "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+          "instructionalText": "Click on hotspot",
+          "durationForStepInMillis": 2011,
+          "startTimeInMillis": 35301,
+          "hotSpot": {
+            "minX": 1290.0,
+            "minY": 1032.0,
+            "width": 25.0,
+            "height": 25.0
+          },
+          "markers": [],
+          "eventType": "MOUSE_CLICKED"
+        },
+        {
+          "stringTyped": "\u001b",
+          "reasonTypingEnded": "MOUSE_MOVED",
+          "image": "image_9_0.png",
+          "hotSpotImage": "hotspot_image_9_0.png",
+          "fullImage": "hotspot_image_9_0.png",
+          "guideMeImage": "hotspot_image_9_0.png",
+          "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+          "instructionalText": "Type:  \nMove Mouse",
+          "durationForStepInMillis": 3734,
+          "startTimeInMillis": 37312,
+          "hotSpot": {
+            "minX": 745.0,
+            "minY": 405.0,
+            "width": 25.0,
+            "height": 25.0
+          },
+          "markers": [],
+          "eventType": "TYPED"
+        },
+        {
+          "clickCount": 1,
+          "mouseButton": 1,
+          "targetClicked": "Capture",
+          "modifiers": [],
+          "image": "image_10_0.png",
+          "hotSpotImage": "hotspot_image_10_0.png",
+          "fullImage": "hotspot_image_10_0.png",
+          "guideMeImage": "hotspot_image_10_0.png",
+          "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+          "instructionalText": "Click on Capture",
+          "durationForStepInMillis": 3712,
+          "startTimeInMillis": 41046,
+          "hotSpot": {
+            "minX": 1213.199951171875,
+            "minY": 1023.0,
+            "width": 48.0,
+            "height": 57.0
+          },
+          "markers": [],
+          "eventType": "MOUSE_CLICKED"
+        },
+        {
+          "menuItemsSelected": [
+            "File"
+          ],
+          "image": "image_11_0.png",
+          "hotSpotImage": "hotspot_image_11_0.png",
+          "fullImage": "hotspot_image_11_0.png",
+          "guideMeImage": "hotspot_image_11_0.png",
+          "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+          "instructionalText": "Select menu item: [File]",
+          "durationForStepInMillis": 3107,
+          "startTimeInMillis": 44758,
+          "hotSpot": {
+            "minX": 119.0,
+            "minY": 0.0,
+            "width": 41.0,
+            "height": 22.0
+          },
+          "markers": [],
+          "eventType": "MENU"
+        },
+        {
+          "clickCount": 1,
+          "mouseButton": 1,
+          "modifiers": [],
+          "image": "image_12_0.png",
+          "hotSpotImage": "hotspot_image_12_0.png",
+          "fullImage": "hotspot_image_12_0.png",
+          "guideMeImage": "hotspot_image_12_0.png",
+          "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+          "instructionalText": "Click on hotspot",
+          "durationForStepInMillis": 9143,
+          "startTimeInMillis": 47865,
+          "hotSpot": {
+            "minX": 832.0,
+            "minY": 612.0,
+            "width": 25.0,
+            "height": 25.0
+          },
+          "markers": [],
+          "eventType": "MOUSE_CLICKED"
+        },
+        {
+          "image": "image_13_0.png",
+          "hotSpotImage": "image_13_0.png",
+          "fullImage": "image_13_0.png",
+          "guideMeImage": "image_13_0.png",
+          "uuid": "cc78cd05-5bc1-41f8-bd41-5ca8bed429db",
+          "instructionalText": "Steps completed",
+          "durationForStepInMillis": 13199,
+          "startTimeInMillis": 57008,
+          "hotSpot": {
+            "minX": -1.0,
+            "minY": -1.0,
+            "width": -1.0,
+            "height": -1.0
+          },
+          "markers": [],
+          "eventType": "STOP_CAPTURE"
+        }
+      ]
+    }
+  ]
+}

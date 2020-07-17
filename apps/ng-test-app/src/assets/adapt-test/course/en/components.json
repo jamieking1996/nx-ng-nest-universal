@@ -1,0 +1,465 @@
+[
+  {
+    "_component": "openTextInput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Reflection",
+    "displayTitle": "Reflection",
+    "body": "<p dir=\"ltr\">You have learnt how to attach a document to an email.</p><p dir=\"ltr\">&nbsp;</p>",
+    "_id": "5f05ebce2c7aab65a470e6d0",
+    "_parentId": "5f05ebc84594c709f801f0c4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Explain one way in which you will use your new skill.",
+    "_isResetOnRevisit": false,
+    "_canShowModelAnswer": false,
+    "_canShowMarking": false,
+    "placeholder": "Enter your answer here",
+    "_allowedCharacters": 500,
+    "remainingCharactersText": "Remaining characters",
+    "_recordInteraction": true,
+    "modelAnswer": "<p>I will use it to send my CV to possible employers.</p>",
+    "savedMessage": "Changes saved",
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Submit"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show model answer",
+        "ariaLabel": "Show model answer"
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "Hide model answer",
+        "ariaLabel": "Hide model answer"
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": "Reset"
+      }
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Attaching a document to an email",
+    "displayTitle": "Attaching a document to an email",
+    "body": "",
+    "_id": "5f05ecfc4594c709f801f0cb",
+    "_parentId": "5f05ebd243023309de810681",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "The paperclip symbol",
+        "body": "<p>First, select the paperclip symbol.</p>",
+        "_graphic": {
+          "src": "course/assets/5efc793232578858a5119891.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "1"
+      },
+      {
+        "title": "The document folder",
+        "body": "<p>Select the folder that the document you want to attach is saved in.</p>",
+        "_graphic": {
+          "src": "course/assets/5efc7a290d955f585ae94dfc.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "2"
+      },
+      {
+        "title": "The document",
+        "body": "<p>Select the document you want to attach.</p>",
+        "_graphic": {
+          "src": "course/assets/5efca6538307e9127901f09e.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "3"
+      }
+    ]
+  },
+  {
+    "_component": "hiddenHotspots",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "The paperclip icon",
+    "displayTitle": "The paperclip icon",
+    "body": "",
+    "_id": "5f05edbbc80cec128f5a1cb8",
+    "_parentId": "5f05ebd74594c709f801f0c5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Select the icon to attach a document.",
+    "mobileInstruction": "",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": false,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_graphic": {
+      "alt": "Paperclip image",
+      "src": "course/assets/5f086d3b3cb13e2e7fccad03.png"
+    },
+    "itemsRemainingSuffix": "remaining",
+    "_items": [
+      {
+        "_left": 102,
+        "_top": 768,
+        "_width": 133,
+        "_height": 100
+      }
+    ],
+    "_feedback": {
+      "_partlyCorrect": {
+        "notFinal": "<p>That&#39;s not quite right.</p><p>The icon is shaped like a paperclip and is to the left of the send button.</p>",
+        "final": "<p>That&#39;s not quite right.</p><p>The icon is shaped like a paperclip and is to the left of the send button.</p>"
+      },
+      "_incorrect": {
+        "notFinal": "<p>That&#39;s not quite right.</p><p>The icon is shaped like a paperclip and is to the left of the send button.</p>",
+        "final": "<p>That&#39;s not quite right.</p><p>The icon is shaped like a paperclip and is to the left of the send button.</p>"
+      },
+      "correct": "<p>That&#39;s right!</p><p>You&#39;ve selected the paperclip.</p>"
+    },
+    "_buttons": {
+      "remainingAttemptText": "",
+      "remainingAttemptsText": "",
+      "_showFeedback": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_hideCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_showCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_reset": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_submit": {
+        "ariaLabel": "",
+        "buttonText": ""
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Congratulations!",
+    "displayTitle": "Congratulations!",
+    "body": "<p>You&#39;ve learnt how to attach a document to an email.</p><p><a href=\"https://edu.gcfglobal.org/en/email101/introduction-to-email/1/\">Learn more about email</a></p><p><a href=\"https://www.learnmyway.com/planner/\">Help me work out what to do next</a></p>",
+    "_id": "5f05ef0e599991126f14d6b8",
+    "_parentId": "5f05ef06880df1123b128590",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "hiddenHotspots",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "The document folder",
+    "displayTitle": "The document folder",
+    "body": "",
+    "_id": "5f05edc505413b24f91ffae4",
+    "_parentId": "5f05edbe12ce071230135a79",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Select the folder that the document you want is saved in.",
+    "mobileInstruction": "Select the folder that the document you want is saved in.",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": true,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_graphic": {
+      "alt": "Selecting a document folder where the document is stored.",
+      "src": "course/assets/5f086d60ef052e2e86a1fe8c.png"
+    },
+    "itemsRemainingSuffix": "remaining",
+    "_items": [
+      {
+        "_left": 236,
+        "_top": 349,
+        "_width": 282,
+        "_height": 89
+      }
+    ],
+    "_feedback": {
+      "_partlyCorrect": {
+        "notFinal": "<p>That&#39;s not quite right.&nbsp;</p><p>Remember your documents are saved in your documents folder.</p>",
+        "final": "<p>That&#39;s not quite right.</p><p>Remember your documents are saved in your documents folder.</p>"
+      },
+      "_incorrect": {
+        "notFinal": "<p>That&#39;s not&nbsp;right.</p><p>Remember your documents are saved in your documents folder.</p>",
+        "final": "<p>That&#39;s not&nbsp;right.</p><p>Remember your documents are saved in your documents folder.</p>"
+      },
+      "correct": "<p>That&#39;s right!</p><p>Your documents are saved in your documents folder.</p>"
+    },
+    "_buttons": {
+      "remainingAttemptText": "",
+      "remainingAttemptsText": "",
+      "_showFeedback": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_hideCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_showCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_reset": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_submit": {
+        "ariaLabel": "",
+        "buttonText": ""
+      }
+    }
+  },
+  {
+    "_component": "hiddenHotspots",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "The document",
+    "displayTitle": "The document",
+    "body": "",
+    "_id": "5f05edcb2c7aab65a470e6d5",
+    "_parentId": "5f05edc09bcbfd1255c95f25",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Select the document you want to attach.",
+    "mobileInstruction": "Select the document you want to attach.",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": true,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_graphic": {
+      "alt": "File manager with document in it.",
+      "src": "course/assets/5f086d83bbc2c7167b9699bf.png"
+    },
+    "itemsRemainingSuffix": "remaining",
+    "_items": [
+      {
+        "_left": 521,
+        "_top": 327,
+        "_width": 345,
+        "_height": 134
+      }
+    ],
+    "_feedback": {
+      "_partlyCorrect": {
+        "notFinal": "<p>That&#39;s not quite right.</p><p>Salma wants to attach her CV.</p>",
+        "final": "<p>That&#39;s not quite right.</p><p>Salma wants to attach her CV.</p>"
+      },
+      "_incorrect": {
+        "notFinal": "<p>That&#39;s not&nbsp;right.</p><p>Salma wants to attach her CV.</p>",
+        "final": "<p>That&#39;s not&nbsp;right.</p><p>Salma wants to attach her CV.</p>"
+      },
+      "correct": "<p>That&#39;s&nbsp;right!</p><p>Salma wants to attach her CV.</p>"
+    },
+    "_buttons": {
+      "remainingAttemptText": "",
+      "remainingAttemptsText": "",
+      "_showFeedback": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_hideCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_showCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_reset": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_submit": {
+        "ariaLabel": "",
+        "buttonText": ""
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Attaching a document to an email",
+    "displayTitle": "Attaching a document to an email",
+    "body": "<p dir=\"ltr\">To get the best from this unit you should already have completed:</p><p>&nbsp;</p><ul><li dir=\"ltr\"><p dir=\"ltr\"><strong>Creating an Email Account</strong></p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong>Sending an Email </strong></p></li></ul><p dir=\"ltr\">&nbsp;</p><p dir=\"ltr\"><a href=\"#/id/5f05ecfc4594c709f801f0cb\"><strong>Start learning</strong></a></p><p dir=\"ltr\"><strong>Practise Activity</strong></p><p dir=\"ltr\"><a href=\"#/id/5f05f0e7880df1123b128651\"><strong>Take the quiz</strong></a></p>",
+    "_id": "5f05ebc405413b24f91ff86c",
+    "_parentId": "5f05eb7405413b24f91ff86a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Quiz",
+    "displayTitle": "Quiz",
+    "body": "",
+    "_id": "5f05f0e7880df1123b128651",
+    "_parentId": "5f05f0de56138009b9fae3c5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Select the icon that you would use to add an attachment.",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/assets/5f05f18cebb6a25f2d4af5d1.png",
+          "small": "course/assets/5f05f18cebb6a25f2d4af5d1.png",
+          "alt": "Envelope",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "feedback": "No, that's an evelope used to send an email."
+      },
+      {
+        "_graphic": {
+          "large": "course/assets/5f05f1cec80cec128f5a1cbc.png",
+          "small": "course/assets/5f05f1cec80cec128f5a1cbc.png",
+          "alt": "Open button",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "feedback": "No, that's used to open emails when clicked."
+      },
+      {
+        "_graphic": {
+          "large": "course/assets/5f05f1fb3b677309c433e6b5.png",
+          "small": "course/assets/5f05f1fb3b677309c433e6b5.png",
+          "alt": "Paperclip",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": true,
+        "feedback": "Correct, well done. The paperclip is used to attach a document to an email."
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Correct, well done. The paperclip is used to attach a document to an email.</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]

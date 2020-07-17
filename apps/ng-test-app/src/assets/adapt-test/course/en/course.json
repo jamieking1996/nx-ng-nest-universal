@@ -1,0 +1,172 @@
+{
+  "title": "Unit of Learning - Attaching a document to an email",
+  "displayTitle": "Unit of Learning - Attaching a document to an email",
+  "body": "",
+  "description": "",
+  "_latestTrackingId": 7,
+  "_language": "en",
+  "_multilanguage": [
+    {
+      "_id": "5f05eb71a346885f34d09a92",
+      "key": "en"
+    },
+    {
+      "_id": "5f0dce49243bfa171335b22e",
+      "key": "cs"
+    }
+  ],
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Hide correct answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "remaining attempts",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_lockType": null,
+  "_id": "course",
+  "_type": "course",
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_globals": {
+    "_accessibility": {
+      "_accessibilityToggleTextOn": "Turn accessibility on?",
+      "_accessibilityToggleTextOff": "Turn accessibility off?",
+      "skipNavigationText": "Skip navigation",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
+      },
+      "_ariaLabels": {
+        "navigation": "Course navigation bar",
+        "skipNavigation": "Skip navigation",
+        "home": "Home",
+        "menuLoaded": "Menu loaded",
+        "menu": "Menu",
+        "menuItem": "Menu item",
+        "menuViewButton": "Select here to enter",
+        "page": "Page",
+        "pageLoaded": "Page loaded",
+        "previous": "Back",
+        "navigationBack": "Navigate back",
+        "navigationDrawer": "Open course resources and search",
+        "closeResources": "Close resources",
+        "drawerBack": "Back to drawer",
+        "drawer": "Side drawer",
+        "closeDrawer": "Close drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Complete",
+        "incomplete": "Incomplete",
+        "correct": "Correct",
+        "incorrect": "Incorrect",
+        "locked": "Locked",
+        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+        "feedbackPopUp": "Popup opened",
+        "visited": "Visited",
+        "menuBack": "Back to menu",
+        "menuIndicatorHeading": "Menu item heading ",
+        "exit": "Exit"
+      }
+    },
+    "_components": {
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+      },
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
+      },
+      "_hiddenHotspots": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "ariaPoupupLabel": "Hotgraphic popup"
+      }
+    },
+    "_extensions": {
+      "_assistedLearning": {
+        "backToResultsButtonText": "Back to results",
+        "nextButtonText": "Next",
+        "retakeAssessmentButtonText": "Retry assessment",
+        "reviewButtonText": "Review",
+        "status": "Status",
+        "code": "Code",
+        "itemsToReview": "Learning objective(s) to review",
+        "reviewed": "Reviewed",
+        "flagged": "Flagged for review",
+        "yes": "Yes",
+        "no": "No",
+        "revisionProgressEnd": "You have reached the end of the list of learning objectives.",
+        "revisionProgressIndicatorBar": "Revision progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed "
+      },
+      "_trickle": {
+        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
+      },
+      "_xapi": {
+        "confirm": "OK",
+        "lrsConnectionErrorTitle": "LRS not available",
+        "lrsConnectionErrorMessage": "We were unable to connect to your Learning Record Store (LRS). This means that your progress cannot be recorded."
+      },
+      "_languagePicker": {
+        "navigationBarLabel": "Select course language"
+      }
+    },
+    "_menu": {
+      "_boxMenuCustom": {
+        "ariaRegion": "Menu",
+        "durationLabel": "Duration:",
+        "menuItem": "Menu item.",
+        "menuEnd": "You have reached the end of the menu."
+      }
+    }
+  },
+  "_menu": {
+    "_boxMenuCustom": {
+      "_menuInstructionText": "Click or tap on the blocks below to find out more"
+    }
+  },
+  "_assistedLearning": {
+    "_isEnabled": true,
+    "_displayCode": false,
+    "_displaySuccessMessageOnPass": false,
+    "_bypassResultsOnRetake": false,
+    "_resetOnRetake": true,
+    "assessmentPassTitle": "You have passed!",
+    "assessmentPassBody": "<p>Well done. You have scored {{scoreAsPercent}}.</p>",
+    "confirmExitTitle": "Are you sure?",
+    "confirmExitBody": "<p>Are you sure you want to exit revision?</p>",
+    "confirmRevisionTitle": "Ready to revise?",
+    "confirmRevisionBody": "<p>You are about to revise a learning objective. Do you want to continue?</p>",
+    "startRevisionTitle": "Start revision",
+    "startRevisionBody": "<p>You have scored {{score}}. Let&#39;s work on improving that.</p>",
+    "startRevisionButtonText": "Start revision",
+    "revisionResultsTitle": "Your results",
+    "revisionResultsBody": "<p>You have scored {{scoreAsPercent}}%.</p>",
+    "_classes": ""
+  }
+}

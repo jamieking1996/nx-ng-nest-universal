@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="https://Try.authr.it/activities/course/103895/lms" type="http://adlnet.gov/expapi/activities/course">
+			<name> Matthew&apos;s Demo</name>
+			<description lang="en-US"> </description>
+			<launch lang="en-US">SCORMDriver/indexAPI.html</launch>
+		</activity>
+	</activities>
+</tincan>
