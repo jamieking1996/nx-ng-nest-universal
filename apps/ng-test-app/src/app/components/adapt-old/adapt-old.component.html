@@ -1,0 +1,4 @@
+<div *ngIf="isPlatformBrowser()">
+    <iframe #iframe src="/assets/adapt-old/index.html" style="width:100%; height:700px;" (load)="test()"></iframe>
+</div>
+<button [disabled]="isNavigationDisabled" (click)="navigate()">Test</button>

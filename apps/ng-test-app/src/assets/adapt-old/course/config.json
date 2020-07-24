@@ -1,0 +1,79 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_id": "5c3776920113e36b24181e52",
+  "__v": 0,
+  "_courseId": "5c3776910113e36b24181e51",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "_accessibility": {
+    "_isTextProcessorEnabled": true,
+    "_shouldSupportLegacyBrowsers": false,
+    "_isDisabledOnTouchDevices": false,
+    "_isEnabled": true
+  },
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024
+  },
+  "_TTS": {
+    "_isEnabled": true
+  },
+  "_mobileFixes": {
+    "_isEnabled": true
+  },
+  "_trickle": {
+    "_completionAttribute": "_isInteractionComplete"
+  },
+  "_spoor": {
+    "_isEnabled": true,
+    "_tracking": {
+      "_requireCourseCompleted": true,
+      "_requireAssessmentPassed": false,
+      "_shouldSubmitScore": false,
+      "_shouldStoreResponses": false,
+      "_shouldRecordInteractions": false
+    },
+    "_reporting": {
+      "_onTrackingCriteriaMet": "completed",
+      "_onAssessmentFailure": "incomplete",
+      "_resetStatusOnLanguageChange": false
+    },
+    "_advancedSettings": {
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": true,
+      "_commitOnVisibilityChangeHidden": false
+    }
+  },
+  "build": {
+    "includes": [
+      "adapt-contrib-boxMenu",
+      "adapt-lmw",
+      "adapt-lmw-photostory",
+      "adapt-contrib-narrative",
+      "adapt-contrib-text",
+      "adapt-contrib-graphic",
+      "adapt-lmw-activity",
+      "adapt-contrib-assessment",
+      "adapt-contrib-bookmarking",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-spoor",
+      "adapt-contrib-trickle",
+      "adapt-contrib-tutor",
+      "adapt-lmw-mobileFixes",
+      "adapt-lmw-speech",
+      "adapt-lmw-publishing"
+    ]
+  }
+}

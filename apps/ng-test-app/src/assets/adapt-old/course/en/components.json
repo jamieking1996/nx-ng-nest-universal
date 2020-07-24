@@ -1,0 +1,3600 @@
+[
+  {
+    "_component": "photostory",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Meet Tina",
+    "displayTitle": "",
+    "body": "<p>Meet Tina and her family.</p><p>This is Tina, her husband Gary and their daughter Chloe. Living nearby is Tina&#39;s mum Norah.</p>",
+    "_id": "5c3776920113e36b24181e76",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e61",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/3de6ff7deb6e3b4ecaa4235478a9d8f51023475a.png"
+        },
+        "body": "<p>Tina and Gary want another baby. Tina knows she&#39;ll have to make appointments with the doctor, but sometimes it can be hard to get through on the phone and arrange a suitable day and time.</p>"
+      },
+      {
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/5da7e9f0c87b6811751742c41f0365963dc263a1.png"
+        },
+        "body": "<p>Gary says she might be able to make appointments and order repeat prescriptions using her GP&#39;s website. To find out if this is true, Tina visits the NHS&nbsp;website.</p>"
+      }
+    ],
+    "instruction": "Select the ‘Next’ button to find out more."
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Proof of your identity",
+    "displayTitle": "Proof of your identity",
+    "body": "<p>Now that Tina knows her GP offers online services, she can start registering.</p>\n",
+    "_id": "5c3776920113e36b24181e79",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e69",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "strapline": "Tina's ID",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/d3da33f5f2ace26a79eaf7863a1c7e5d37357e82.png"
+        },
+        "body": "<p>The first step is for Tina to visit her GP practice to get her log-in details. To do this, she needs to bring some ID with her.</p>\n",
+        "title": ""
+      },
+      {
+        "strapline": "Types of ID",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/c41ce78885d4353fd6ffb1e5270107e711b93f95.png"
+        },
+        "body": "<p>Usually, this would include something with her photo on - for example, a driving licence or passport. She&#39;ll also need something with her address on it, like a bank statement.</p>\n",
+        "title": ""
+      },
+      {
+        "strapline": "Vouching for identity",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/a84dd72400225a1da3970f33a1541ca01f88a04f.png"
+        },
+        "body": "<p>If Tina didn&#39;t have any ID, she could still go to her GP and they would ask someone with responsibility, like a GP or practice manager, to vouch for her identity.</p>\n\n<p>This just means that the GP or practice manager will confirm that she is being honest about who she is.</p>\n",
+        "title": ""
+      },
+      {
+        "strapline": "Log-in form",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/af4466a577dc44e050d812618ffa76c214017142.png"
+        },
+        "body": "<p>After completing the ID check, Tina&#39;s GP practice gives her a form with the log-in details and instructions for registering with the website.</p>\n",
+        "title": ""
+      }
+    ],
+    "_setCompletionOn": null,
+    "_hasNavigationInTextArea": true,
+    "mobileInstruction": "",
+    "instruction": "Select the ‘Next’ button to find out more."
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Tina wants another baby",
+    "displayTitle": "",
+    "body": "<p>Tina and Gary have decided they want a second child.</p>\n\n<p>Tina knows that she will need to make an appointment to talk to her doctor about becoming pregnant. Now that she&#39;s registered with her GP&#39;s website, Tina can book an appointment easily online.</p>\n",
+    "_id": "5c3776920113e36b24181e7e",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e62",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5c3776920113e36b24181e7f",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e62",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_graphic": {
+      "attribution": "",
+      "small": "course/en/assets/6af13e3cfdddecbaa88e0231fdd8437791024f69.png",
+      "large": "course/en/assets/6af13e3cfdddecbaa88e0231fdd8437791024f69.png",
+      "alt": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Congratulations!",
+    "displayTitle": "Congratulations!",
+    "body": "<p dir=\"ltr\">Well done, you&#39;ve come to the end of the<strong> Book an appointment with your GP </strong>topic.</p><p>If you&#39;re registered with your GP&#39;s website then you can book doctor&#39;s appointments online. This will save you the trouble of going into the surgery or waiting on the phone to make an appointment.</p><p dir=\"ltr\">In the next topic,<strong> </strong><strong>Order a repeat prescription from your GP, </strong>you&rsquo;ll go through the steps needed to get a repeat prescription for medicine you need more than once.</p>",
+    "_id": "5c3776920113e36b24181e82",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e74",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5c3776920113e36b24181e83",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e74",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_graphic": {
+      "attribution": "",
+      "small": "course/en/assets/89b85333f43bd3f606cd4d63e65f40fca2d291f1.png",
+      "large": "course/en/assets/89b85333f43bd3f606cd4d63e65f40fca2d291f1.png",
+      "alt": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Tina needs a repeat prescription",
+    "displayTitle": "",
+    "body": "<p>After booking her appointment online, Tina went to see her doctor. The doctor prescribed her folic acid. Folic acid is&nbsp;a vitamin that she&#39;ll need to take from now until she&#39;s three months pregnant.</p><p>Now it&#39;s one month later, Tina would like to save time and order her repeat prescriptions&nbsp;online. She&#39;s already registered with her GP surgery&#39;s website.</p>",
+    "_id": "5c3776920113e36b24181e86",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e63",
+    "_hint": [],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5c3776920113e36b24181e87",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e63",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/950bca2dd8c42347af90d99cc1adea04f79fe812.png",
+      "small": "course/en/assets/950bca2dd8c42347af90d99cc1adea04f79fe812.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Congratulations!",
+    "displayTitle": "Congratulations!",
+    "body": "<p dir=\"ltr\">Well done, you&#39;ve come to the end of the<strong> </strong><strong>Order a repeat prescription from your GP</strong> topic.</p>\n\n<p>You&#39;ve learnt<strong> </strong>that after you&#39;ve registered with your GP&#39;s website, all you have to do is&nbsp;log in to your account,&nbsp;go to the repeat prescriptions tab,&nbsp;choose the prescription that you need to order and&nbsp;select <strong>Submit.</strong></p>\n\n<p dir=\"ltr\">In the next topic,<strong> </strong><strong>See your health records, </strong>you&rsquo;ll see how you can use the internet to access your health records.</p>\n",
+    "_id": "5c3776920113e36b24181e8a",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e6d",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5c3776920113e36b24181e8b",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e6d",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_graphic": {
+      "attribution": "",
+      "small": "course/en/assets/4cbcb11f1e36a2eb93971f34deb259b5c1a55d14.png",
+      "large": "course/en/assets/4cbcb11f1e36a2eb93971f34deb259b5c1a55d14.png",
+      "alt": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Norah wants a list of her medication",
+    "displayTitle": "",
+    "body": "<p>This is Norah, Tina&#39;s mum.</p>\n\n<p>Norah has to take a number of different medicines for her diabetes. She&#39;s going on holiday soon and wants to take a list of all her medication with her.</p>\n\n<p>When Tina discovered how easy it was to register on her GP&#39;s website, she encouraged her mother to do the same. Now Norah needs to find a full list of her medication online and print it out.</p>\n",
+    "_id": "5c3776920113e36b24181e8e",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e64",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5c3776920113e36b24181e8f",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e64",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_graphic": {
+      "attribution": "",
+      "small": "course/en/assets/6a41a33ab31067ea0b9ad1dec6920aeacd986803.png",
+      "large": "course/en/assets/6a41a33ab31067ea0b9ad1dec6920aeacd986803.png",
+      "alt": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Is it safe and secure?",
+    "displayTitle": "Is it safe and secure?",
+    "body": "<p>Norah has some concerns about health records like her medicine list being online. Is it secure?</p>",
+    "_id": "5c3776920113e36b24181e92",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e65",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select the ‘Next’ button to find out more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Yes, Norah&#39;s online records are safe and she is the only person who can access them.</p><p>Norah&#39;s password is like the key to a safe. By not sharing it with anyone, she can keep her health records private and secure.</p>",
+        "_graphic": {
+          "src": "course/en/assets/9a0ffec3561f3fe665699b9a1a1c1c78c2cafdec.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Passwords"
+      },
+      {
+        "title": "",
+        "body": "<p>Norah&#39;s online access to her records is for her only. She doesn&#39;t have to share it with anyone, including family members and health professionals.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ca7307be0cf450f850816be47d7085d8e414b7b1.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Secret records"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "A quick recap",
+    "displayTitle": "A quick recap",
+    "body": "<p>After you have registered with your GP&#39;s website, you might find that you can check your health records online. This service may not yet be available in your area, but if it isn&#39;t it will be coming soon.</p>\n\n<p>By using the online GP service, you can do all this without the trouble of having to leave your home or spend ages waiting on the phone.</p>\n\n<p>Keep your password a secret to make sure your medical records are secure and you are the only person who can access them.</p>\n",
+    "_id": "5c3776920113e36b24181e95",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e71",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5c3776920113e36b24181e96",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e71",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5ff5517d1597fc1c231a197622e1dbf1a29faf95.png",
+      "small": "course/en/assets/5ff5517d1597fc1c231a197622e1dbf1a29faf95.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Congratulations!",
+    "displayTitle": "Congratulations!",
+    "body": "<p>Congratulations, you&#39;ve come to the end of this topic and the end of this course.&nbsp;</p><p>You&#39;ve learnt how to register on a GP&#39;s website and book a appointments, make repeat prescriptions and access your health records&nbsp;online.</p>",
+    "_id": "5c3776920113e36b24181e99",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e75",
+    "_hint": [],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5c3776920113e36b24181e9a",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e75",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_graphic": {
+      "attribution": "",
+      "small": "course/en/assets/f862ea287424a600f54389b738db86bc8a893988.png",
+      "large": "course/en/assets/f862ea287424a600f54389b738db86bc8a893988.png",
+      "alt": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5c3776930113e36b24181ea5",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e72",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/af4466a577dc44e050d812618ffa76c214017142.png",
+      "small": "course/en/assets/af4466a577dc44e050d812618ffa76c214017142.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Congratulations!",
+    "displayTitle": "Congratulations!",
+    "body": "<p dir=\"ltr\">Well done, you&#39;ve come to the end of the<strong> </strong><strong>Register with your GP&#39;s website</strong><strong> </strong>topic.</p>\n\n<p dir=\"ltr\">You&#39;ve learnt that some GPs have a website you can use to register, as well as how to create a user name and password.</p>\n\n<p>In the next topic<strong>, Book an appointment with your GP, </strong>you&rsquo;ll learn how to use the internet to book an appointment in advance.</p>\n",
+    "_id": "5c3776930113e36b24181ea8",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e72",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "activity",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Registering",
+    "displayTitle": "Registering",
+    "body": "<p>Can you help Tina register on her GP's website?</p><p>Select the&nbsp;<strong>Start activity&nbsp;</strong>button below to begin.</p>",
+    "_id": "5c3776930113e36b24181ea9",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e6f",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_hint": [],
+    "_modalTitle": "Activity",
+    "_restartButtonText": "Restart",
+    "_closeButtonText": "Close",
+    "_startActivityButtonText": "Start activity",
+    "_transcript": "<p>In this activity, the learner selects enters Tina's username and the temporary password that her GP sent her. Then selects the Register button. Next the learner enters a new password that Tina has chosen. After confirming her new password the learner selects the Sign In button.</p><p>This is to explains how to print a register on a GP's website.</p>",
+    "_mobileAlternative": true,
+    "_mobileAlternativeCondition": "small",
+    "_mobileAlternativeDisplayTitle": "Registering",
+    "_mobileAlternativeText": "<p dir=\"ltr\">Unfortunately this activity is not compatible with your device.</p><p dir=\"ltr\">If you would like to practise using your skills with this activity, please open this course on a device with a larger screen.</p><p>In this activity, you would practise registering on a GP's website. First you would&nbsp;enter&nbsp;a username and&nbsp;a&nbsp;temporary password. Next&nbsp;you would enter and confirm a&nbsp;new password.&nbsp;</p>",
+    "_mobileAlternativeGraphic": "",
+    "_pages": [
+      {
+        "_name": "FirstPage",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/ad1ca199527e4762943744bfe98ba62a6b7b94f6.png",
+        "_backgroundColor": "",
+        "_layout": {
+          "layout": "backgroundImage"
+        },
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "The website allows Tina to choose her own Username. She decides to use something based on her full name, Tina Scott, so that it's easy for her to remember.<p></p>Type <b>tinascott</b> in to the Username box then select the <b>Password</b> box.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectFocus",
+                "_args": "UsernameBox",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Correct",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "PasswordBox",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "UsernameBox",
+                "test": "similar",
+                "value": "tinascott"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "gotoPage",
+                "_args": "Password",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong1",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "PasswordBox",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "UsernameBox",
+                "test": "notSimilar",
+                "value": "tinascott"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry that's not right. <p></p>You need to Type <b>tinascott</b> in to the Username box then select the <b>Password</b> box.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "highlightObject",
+                "_args": "UsernameBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectValue",
+                "_args": "UsernameBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectFocus",
+                "_args": "UsernameBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "wrong1tab",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "wrong2tab",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "typerightclickwrong1",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "typerightclickwrong2",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong2",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "PasswordBox",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "UsernameBox",
+                "test": "notSimilar",
+                "value": "tinascott"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry that's not right.<p></p>This is how it's done.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectValue",
+                "_args": "UsernameBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "500",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateTyping",
+                "_args": "UsernameBox",
+                "_argsParam": "tinascott"
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "showObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "4000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateMoveTo",
+                "_args": "PasswordBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "gotoPage",
+                "_args": "Password",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "correctTab",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:keyUp",
+              "key": 9,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "UsernameBox",
+                "test": "similar",
+                "value": "tinascott"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "gotoPage",
+                "_args": "Password",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "wrong1tab",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:keyUp",
+              "key": 9,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "UsernameBox",
+                "test": "notSimilar",
+                "value": "tinascott"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "triggerEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "wrong2tab",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:keyUp",
+              "key": 9,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "UsernameBox",
+                "test": "notSimilar",
+                "value": "tinascott"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "triggerEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": [
+          {
+            "_name": "UsernameBox",
+            "_type": "textInput",
+            "_position": {
+              "x": 267,
+              "y": 336,
+              "w": 314,
+              "h": 30
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "PasswordBox",
+            "_type": "hotspot",
+            "_position": {
+              "x": 261,
+              "y": 384,
+              "w": 332,
+              "h": 47
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "Mouse",
+            "_type": "sprite",
+            "_position": {
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 32
+            },
+            "_classes": "",
+            "_hidden": true,
+            "text": "",
+            "_asset": "course/en/assets/bee5f98ffa0aee5e50649603828a75f2246e4e3d.png"
+          }
+        ]
+      },
+      {
+        "_name": "Password",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/38b2a835ed10957b36c250a64b07c7704f4d1cd9.png",
+        "_backgroundColor": "",
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Good. Next, Tina's ready to enter the temporary password her GP gave her.<p></p>Type <b>b8Hk51</b> in to the Password box then select <b>Register</b>.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectFocus",
+                "_args": "PasswordBox",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Correct",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "RegisterButton",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "PasswordBox",
+                "test": "equal",
+                "value": "b8Hk51"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "gotoPage",
+                "_args": "NewPassword",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong1",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "RegisterButton",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "PasswordBox",
+                "test": "notEqual",
+                "value": "b8Hk51"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry that's not right.<p></p>Make sure you enter the password exactly, using upper and lower case letters where needed.<p></p>You need to type <b> b8Hk51</b> in to the Password box then select <b>Register</b> key.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectValue",
+                "_args": "PasswordBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectFocus",
+                "_args": "PasswordBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              },
+              {
+                "_action": "highlightObject",
+                "_args": "PasswordBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "wrong1enter",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "wrong2enter",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong2",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "RegisterButton",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "PasswordBox",
+                "test": "notEqual",
+                "value": "b8Hk51"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry that's not right. <p></p>This is how it's done.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectValue",
+                "_args": "PasswordBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "500",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateTyping",
+                "_args": "PasswordBox",
+                "_argsParam": "b8Hk51"
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "showObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "4000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateMoveTo",
+                "_args": "RegisterButton",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "gotoPage",
+                "_args": "NewPassword",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "correctenter",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:keyUp",
+              "key": 13,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "PasswordBox",
+                "test": "equal",
+                "value": "b8Hk51"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "triggerEvent",
+                "_args": "Correct",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "wrong1enter",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:keyUp",
+              "key": 13,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "PasswordBox",
+                "test": "notEqual",
+                "value": "b8Hk51"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "triggerEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "wrong2enter",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:keyUp",
+              "key": 13,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "PasswordBox",
+                "test": "notEqual",
+                "value": "b8Hk51"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "triggerEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": [
+          {
+            "_name": "PasswordBox",
+            "_type": "textInput",
+            "_position": {
+              "x": 266,
+              "y": 390,
+              "w": 314,
+              "h": 30
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "RegisterButton",
+            "_type": "hotspot",
+            "_position": {
+              "x": 465,
+              "y": 443,
+              "w": 123,
+              "h": 45
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "Mouse",
+            "_type": "sprite",
+            "_position": {
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 32
+            },
+            "_classes": "",
+            "_hidden": true,
+            "text": "",
+            "_asset": "course/en/assets/bee5f98ffa0aee5e50649603828a75f2246e4e3d.png"
+          }
+        ]
+      },
+      {
+        "_name": "NewPassword",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/48c4d818f92a250402cc177c53242b33d970fdb1.png",
+        "_backgroundColor": "",
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "The final step is for Tina to set her own password. Setting a personal password will mean that you can be sure no one else can access your records.<p></p>Tina has chosen <b>B4byG1rlChlo3</b> as her password.  <p></p>Type <b>B4byG1rlChlo3</b> in to the Password box then select the <b>Confirm password</b> box.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectFocus",
+                "_args": "NewPasswordBox",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Correct",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "ConfirmPasswordBox",
+              "on": "click",
+              "key": null,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "NewPasswordBox",
+                "test": "equal",
+                "value": "B4byG1rlChlo3"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "gotoPage",
+                "_args": "ConfirmPassword",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong1",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "ConfirmPasswordBox",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "NewPasswordBox",
+                "test": "notEqual",
+                "value": "B4byG1rlChlo3"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry that's not right.<p></p>Make sure you enter the password exactly, using upper and lower case letters where needed.<p></p>You need to type <b>B4byG1rlChlo3</b> in to the Password box then select the <b>Confirm Password</b> box.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "highlightObject",
+                "_args": "NewPasswordBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectValue",
+                "_args": "NewPasswordBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectFocus",
+                "_args": "NewPasswordBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "wrong1tab",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "wrong2tab",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong2",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "ConfirmPasswordBox",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "NewPasswordBox",
+                "test": "notEqual",
+                "value": "B4byG1rlChlo3"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry that's not right. <p></p>This is how it's done.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectValue",
+                "_args": "NewPasswordBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "500",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateTyping",
+                "_args": "NewPasswordBox",
+                "_argsParam": "B4byG1rlChlo3"
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "showObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "4000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateMoveTo",
+                "_args": "ConfirmPasswordBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "gotoPage",
+                "_args": "ConfirmPassword",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "correcttab",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:keyUp",
+              "key": 9,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "NewPasswordBox",
+                "test": "equal",
+                "value": "B4byG1rlChlo3"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "triggerEvent",
+                "_args": "Correct",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "wrong1tab",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:keyUp",
+              "key": 9,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "NewPasswordBox",
+                "test": "notEqual",
+                "value": "B4byG1rlChlo3"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "triggerEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "wrong2tab",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:keyUp",
+              "key": 9,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "NewPasswordBox",
+                "test": "notEqual",
+                "value": "B4byG1rlChlo3"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "triggerEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": [
+          {
+            "_name": "NewPasswordBox",
+            "_type": "textInput",
+            "_position": {
+              "x": 333,
+              "y": 404,
+              "w": 314,
+              "h": 30
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "ConfirmPasswordBox",
+            "_type": "hotspot",
+            "_position": {
+              "x": 329,
+              "y": 453,
+              "w": 327,
+              "h": 44
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "Mouse",
+            "_type": "sprite",
+            "_position": {
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 32
+            },
+            "_classes": "",
+            "_hidden": true,
+            "text": "",
+            "_asset": "course/en/assets/bee5f98ffa0aee5e50649603828a75f2246e4e3d.png"
+          }
+        ]
+      },
+      {
+        "_name": "ConfirmPassword",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/47524ceea5abc1c4ef4ce7a3353b5dfe910e5c87.png",
+        "_backgroundColor": "",
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Great. Tina now needs to enter her new password once more to check that she has entered it correctly.<p></p>Type <b>B4byG1rlChlo3</b> in to the Confirm Password box then select <b>Sign In</b>.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectFocus",
+                "_args": "ConfirmPasswordBox",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Correct",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "SignInButton",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "ConfirmPasswordBox",
+                "test": "equal",
+                "value": "Bl0nd3Tin4!"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "gotoPage",
+                "_args": "LastPage",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong1",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "SignInButton",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "ConfirmPasswordBox",
+                "test": "notEqual",
+                "value": "B4byG1rlChlo3"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry that's not right.<p></p>Make sure you enter the password exactly, using upper and lower case letters where needed.<p></p>You need to type <b>B4byG1rlChlo3</b> in to the Confirm Password box then select <b>Sign In</b>.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "highlightObject",
+                "_args": "ConfirmPasswordBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectValue",
+                "_args": "ConfirmPasswordBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectFocus",
+                "_args": "ConfirmPasswordBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "wrong1enter",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "wrong2enter",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong2",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "SignInButton",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "ConfirmPasswordBox",
+                "test": "notEqual",
+                "value": "B4byG1rlChlo3"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry that's not right.<p></p>This is how it's done.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "setObjectValue",
+                "_args": "ConfirmPasswordBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "500",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateTyping",
+                "_args": "ConfirmPasswordBox",
+                "_argsParam": "B4byG1rlChlo3"
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "showObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "4000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateMoveTo",
+                "_args": "SignInButton",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "gotoPage",
+                "_args": "LastPage",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "correctenter",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:keyUp",
+              "key": 13,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "ConfirmPasswordBox",
+                "test": "equal",
+                "value": "B4byG1rlChlo3"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "triggerEvent",
+                "_args": "Correct",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "wrong1enter",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:keyUp",
+              "key": 13,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "ConfirmPasswordBox",
+                "test": "notEqual",
+                "value": "B4byG1rlChlo3"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "triggerEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "wrong2enter",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:keyUp",
+              "key": 13,
+              "keyInvert": false
+            },
+            "_conditions": [
+              {
+                "_object": "ConfirmPasswordBox",
+                "test": "notEqual",
+                "value": "B4byG1rlChlo3"
+              }
+            ],
+            "_actions": [
+              {
+                "_action": "triggerEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": [
+          {
+            "_name": "ConfirmPasswordBox",
+            "_type": "textInput",
+            "_position": {
+              "x": 331,
+              "y": 457,
+              "w": 314,
+              "h": 30
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "SignInButton",
+            "_type": "hotspot",
+            "_position": {
+              "x": 514,
+              "y": 512,
+              "w": 143,
+              "h": 47
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "Mouse",
+            "_type": "sprite",
+            "_position": {
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 32
+            },
+            "_classes": "",
+            "_hidden": true,
+            "text": "",
+            "_asset": "course/en/assets/bee5f98ffa0aee5e50649603828a75f2246e4e3d.png"
+          }
+        ]
+      },
+      {
+        "_name": "LastPage",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/4293714d7a0b28b9f1245cce1f523f6b32243d36.png",
+        "_backgroundColor": "",
+        "_layout": {
+          "layout": "backgroundImage"
+        },
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Great. Tina's now registered and signed in to her account. <p></p>You can now press <b>Close</b> if you have finished. <p></p>Press <b>Restart</b> if you want to try again.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "completeActivity",
+                "_args": "",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": []
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Sign in",
+    "displayTitle": "Sign in",
+    "body": "<p>To book an appointment, Tina has to sign&nbsp;in to her GP&#39;s website.</p><p>Now that she has registered, Tina can sign in using her Username and Password.</p>",
+    "_id": "5c3776930113e36b24181eb3",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e6b",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5c3776930113e36b24181eb4",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e6b",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d38e011805c9e1aa0b2715fffb0aa45eba82bfd2.png",
+      "small": "course/en/assets/d38e011805c9e1aa0b2715fffb0aa45eba82bfd2.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "activity",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Booking an appointment",
+    "displayTitle": "Booking an appointment",
+    "body": "<p>Now Tina has signed in she's ready to book an appointment. Can you help her?</p><p>Select the <strong>Start Activity</strong> button below to begin.&nbsp;</p>",
+    "_id": "5c3776930113e36b24181eb7",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e73",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_modalTitle": "Activity",
+    "_restartButtonText": "Restart",
+    "_closeButtonText": "Close",
+    "_startActivityButtonText": "Start activity",
+    "_transcript": "<p>In this activity, the learner selects a date from a calendar, then chooses a time from a list of options. Finally they confirm the date and time of the appointment booking.&nbsp;</p><p>This is to explain&nbsp;how to book an appointment online on a GP's website.&nbsp;</p>",
+    "_mobileAlternative": true,
+    "_mobileAlternativeCondition": "small",
+    "_mobileAlternativeDisplayTitle": "Booking an appointment",
+    "_mobileAlternativeText": "<p dir=\"ltr\">Unfortunately this activity is not compatible with your device.</p><p dir=\"ltr\">If you would like to practise using your skills with this activity, please open this course on a device with a larger screen.</p><p dir=\"ltr\">In this activity you would practise booking an appointment online on a GP's website. First you would select the Appointments section. Next you would select a date from the calendar, then select a time from the a list of options. Finally you would confirm the booking.&nbsp;</p>",
+    "_mobileAlternativeGraphic": "",
+    "_pages": [
+      {
+        "_name": "FirstPage",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/074e5c16b35cf733b941e34a865b96317cb027b7.png",
+        "_backgroundColor": "",
+        "_layout": {
+          "layout": "backgroundImage"
+        },
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "First, Tina needs to select the Appointments section of the website.<p></p>Select the <b>Appointments</b> button.",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Correct",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "AppointmentsButton",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "gotoPage",
+                "_args": "AppointmentsPage",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong1",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right. <p></p>You need to select the <b>Appointments</b> button.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "highlightObject",
+                "_args": "AppointmentsButton",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong2",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right. <p></p>This is how it's done. ",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "showObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "4000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateMoveTo",
+                "_args": "AppointmentsButton",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "gotoPage",
+                "_args": "AppointmentsPage",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": [
+          {
+            "_name": "AppointmentsButton",
+            "_type": "hotspot",
+            "_position": {
+              "x": 159,
+              "y": 88,
+              "w": 230,
+              "h": 55
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "Mouse",
+            "_type": "sprite",
+            "_position": {
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 32
+            },
+            "_classes": "",
+            "_hidden": true,
+            "text": "",
+            "_asset": "course/en/assets/bee5f98ffa0aee5e50649603828a75f2246e4e3d.png"
+          }
+        ]
+      },
+      {
+        "_name": "AppointmentsPage",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/bee7c4a920f09cd599aa76ca4afc5f87a42bb1a3.png",
+        "_backgroundColor": "",
+        "_layout": {
+          "layout": "backgroundImage"
+        },
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Good. Next, select <b>Tuesday 28</b> on the appointment calendar.",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Correct",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "DateBox",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "gotoPage",
+                "_args": "TimePage",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong1",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right.<p></p>You need to select <b>Tuesday 28</b> on the appointment calendar.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "highlightObject",
+                "_args": "DateBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong2",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right. <p></p>This is how it's done.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "showObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "4000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateMoveTo",
+                "_args": "DateBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "gotoPage",
+                "_args": "TimePage",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": [
+          {
+            "_name": "DateBox",
+            "_type": "hotspot",
+            "_position": {
+              "x": 178,
+              "y": 528,
+              "w": 97,
+              "h": 73
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "Mouse",
+            "_type": "sprite",
+            "_position": {
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 32
+            },
+            "_classes": "",
+            "_hidden": true,
+            "text": "",
+            "_asset": "course/en/assets/bee5f98ffa0aee5e50649603828a75f2246e4e3d.png"
+          }
+        ]
+      },
+      {
+        "_name": "TimePage",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/fcf5df4535a4aa8013c4340815167a0aee66d24d.png",
+        "_backgroundColor": "",
+        "_layout": {
+          "layout": "backgroundImage"
+        },
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Well done. Now Tina needs to choose a time. <p></p>Select the circle next to <b>2.30 PM</b>.",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Correct",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "2.30pmIcon",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "gotoPage",
+                "_args": "ConfirmationPage",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong1",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right. <p></p>You need to select the circle next to <b>2.30 PM</b>.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "highlightObject",
+                "_args": "2.30pmIcon",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong2",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right.<p></p>This is how it's done.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "showObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "4000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateMoveTo",
+                "_args": "2.30pmInsideCircle",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "gotoPage",
+                "_args": "ConfirmationPage",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": [
+          {
+            "_name": "2.30pmIcon",
+            "_type": "hotspot",
+            "_position": {
+              "x": 622,
+              "y": 356,
+              "w": 35,
+              "h": 35
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "Mouse",
+            "_type": "sprite",
+            "_position": {
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 32
+            },
+            "_classes": "",
+            "_hidden": true,
+            "text": "",
+            "_asset": "course/en/assets/bee5f98ffa0aee5e50649603828a75f2246e4e3d.png"
+          },
+          {
+            "_name": "2.30pmInsideCircle",
+            "_type": "coordinate",
+            "_position": {
+              "x": 630,
+              "y": 365,
+              "w": 0,
+              "h": 0
+            },
+            "_classes": "",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          }
+        ]
+      },
+      {
+        "_name": "ConfirmationPage",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/bd4830396bd1159953f3f1acccf2648c3d512d00.png",
+        "_backgroundColor": "",
+        "_layout": {
+          "layout": "backgroundImage"
+        },
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Great. Finally Tina just needs to confirm her appointment. <p></p>Select the <b>OK</b> button.",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Correct",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "OKButton",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "gotoPage",
+                "_args": "LastPage",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong1",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right.<p></p>You need to select the <b>OK</b> button.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "highlightObject",
+                "_args": "OKButton",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong2",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right.<p></p>This is how it's done. ",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "showObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "4000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateMoveTo",
+                "_args": "OKButton",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "gotoPage",
+                "_args": "LastPage",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": [
+          {
+            "_name": "OKButton",
+            "_type": "hotspot",
+            "_position": {
+              "x": 246,
+              "y": 395,
+              "w": 83,
+              "h": 71
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "Mouse",
+            "_type": "sprite",
+            "_position": {
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 32
+            },
+            "_classes": "",
+            "_hidden": true,
+            "text": "",
+            "_asset": "course/en/assets/bee5f98ffa0aee5e50649603828a75f2246e4e3d.png"
+          }
+        ]
+      },
+      {
+        "_name": "LastPage",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/c4e3b6bc4a197a84f892bb2acdda4077f4fc6acc.png",
+        "_backgroundColor": "",
+        "_layout": {
+          "layout": "backgroundImage"
+        },
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Great. You've helped Tina book an appointment with her doctor. <p></p>You can now press <b>Close</b> if you have finished. <p></p>Press <b>Restart</b> if you want to try again.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "completeActivity",
+                "_args": "",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": []
+      }
+    ]
+  },
+  {
+    "_component": "activity",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Order a repeat prescription",
+    "displayTitle": "Order a repeat prescription",
+    "body": "<p>Tina has signed in to Dr Fearnehoughs website, she&#39;s ready to order a repeat prescription for folic acid. Can you help her?</p><p>Select the&nbsp;<strong>Start activity</strong>&nbsp;button below to begin.&nbsp;</p>",
+    "_id": "5c3776930113e36b24181ec1",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e6c",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_transcript": "<p>In this activity, the learner selects the Repeat prescription section of the GP&#39;s website. Next, they select folic acid from a list of medications available to be requested. Finally, then complete the request by selecting the Submit button.</p><p>This is to explain&nbsp;how to submit a repeat prescription request online using a GP&#39;s website.&nbsp;</p>",
+    "_mobileAlternative": true,
+    "_mobileAlternativeCondition": "small",
+    "_mobileAlternativeDisplayTitle": "Order a repeat prescription",
+    "_mobileAlternativeText": "<p dir=\"ltr\">Unfortunately this activity is not compatible with your device.</p><p dir=\"ltr\">If you would like to practise using your skills with this activity, please open this course on a device with a larger screen.</p><p dir=\"ltr\">In this activity you would practise ordering a repeat prescription on a GP&#39;s website. First you would&nbsp;select&nbsp;the Repeat prescription section of the website, then&nbsp;select folic acid from the list of medications available. Finally, you would&nbsp;complete the request by selecting the Submit button.</p>",
+    "_mobileAlternativeGraphic": "",
+    "_pages": [
+      {
+        "_name": "FirstPage",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/074e5c16b35cf733b941e34a865b96317cb027b7.png",
+        "_backgroundColor": "",
+        "_layout": {
+          "layout": "backgroundImage"
+        },
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "First, Tina needs to select the Repeat prescriptions section of the website.<p></p> Select the <b>Repeat prescriptions</b> button.",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Correct",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "RepeatPrescriptionButton",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "gotoPage",
+                "_args": "RepeatPrescriptionPage",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong1",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right.<p></p>You need to select the <b>Repeat prescription</b> button.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "highlightObject",
+                "_args": "RepeatPrescriptionButton",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong2",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right. <p></p>This is how it's done.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "showObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "4000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateMoveTo",
+                "_args": "RepeatPrescriptionButton",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "gotoPage",
+                "_args": "RepeatPrescriptionPage",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": [
+          {
+            "_name": "RepeatPrescriptionButton",
+            "_type": "hotspot",
+            "_position": {
+              "x": 384,
+              "y": 89,
+              "w": 240,
+              "h": 53
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "Mouse",
+            "_type": "sprite",
+            "_position": {
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 32
+            },
+            "_classes": "",
+            "_hidden": true,
+            "text": "",
+            "_asset": "course/en/assets/bee5f98ffa0aee5e50649603828a75f2246e4e3d.png"
+          }
+        ]
+      },
+      {
+        "_name": "RepeatPrescriptionPage",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/00490a8f5d98873f5b3a3193f19a0c7af1656c5a.png",
+        "_backgroundColor": "",
+        "_layout": {
+          "layout": "backgroundImage"
+        },
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Good. Next Tina needs to select the item she wants.<p></p>Select the small square next to <b>Folic acid</b>.",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Correct",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "FolicAcidBox",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "gotoPage",
+                "_args": "SubmitPage",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong1",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right.<p></p>You need to select the small box next to <b>Folic acid</b>.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "highlightObject",
+                "_args": "FolicAcidBox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong2",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right.<p></p>This is how it's done.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "showObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "4000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateMoveTo",
+                "_args": "FolicAcidCheckbox",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "gotoPage",
+                "_args": "SubmitPage",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": [
+          {
+            "_name": "FolicAcidBox",
+            "_type": "hotspot",
+            "_position": {
+              "x": 72,
+              "y": 275,
+              "w": 38,
+              "h": 38
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "Mouse",
+            "_type": "sprite",
+            "_position": {
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 32
+            },
+            "_classes": "",
+            "_hidden": true,
+            "text": "",
+            "_asset": "course/en/assets/bee5f98ffa0aee5e50649603828a75f2246e4e3d.png"
+          },
+          {
+            "_name": "FolicAcidCheckbox",
+            "_type": "coordinate",
+            "_position": {
+              "x": 80,
+              "y": 285,
+              "w": 0,
+              "h": 0
+            },
+            "_classes": "",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          }
+        ]
+      },
+      {
+        "_name": "SubmitPage",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/23d71f7339e2f5598123ff71b70849233743954f.png",
+        "_backgroundColor": "",
+        "_layout": {
+          "layout": "backgroundImage"
+        },
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Well done. Finally, select the <b>Submit</b> button.",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Correct",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "SubmitButton",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "gotoPage",
+                "_args": "LastPage",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong1",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right. You need to select the <b>Submit</b> button.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "highlightObject",
+                "_args": "SubmitButton",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong2",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry that's not right. <p></p>This is how it's done.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "showObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "4000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateMoveTo",
+                "_args": "SubmitButton",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "gotoPage",
+                "_args": "LastPage",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": [
+          {
+            "_name": "SubmitButton",
+            "_type": "hotspot",
+            "_position": {
+              "x": 56,
+              "y": 420,
+              "w": 154,
+              "h": 72
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "Mouse",
+            "_type": "sprite",
+            "_position": {
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 32
+            },
+            "_classes": "",
+            "_hidden": true,
+            "text": "",
+            "_asset": "course/en/assets/bee5f98ffa0aee5e50649603828a75f2246e4e3d.png"
+          }
+        ]
+      },
+      {
+        "_name": "LastPage",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/a08d5dd7be9ec185e7f0f5d83f4e5bbb712707c3.png",
+        "_backgroundColor": "",
+        "_layout": {
+          "layout": "backgroundImage"
+        },
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Well done. You've helped Tina order a repeat prescription. <p></p>Your GP's website may look a little different, or arrange your prescription even quicker than Tina's.<p></p>You can now press <b>Close</b> if you have finished. <p></p>Press <b>Restart</b> if you want to try again.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "completeActivity",
+                "_args": "",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": []
+      }
+    ]
+  },
+  {
+    "_component": "activity",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Finding Norah's medicine list",
+    "displayTitle": "Finding Norah's medicine list",
+    "body": "<p>Norah has already logged in to her GP&#39;s website.</p><p>Can you help her find a list of all her medication, ready for her to print out and take on holiday?</p><p>Select the <strong>Start Activity</strong> button below to begin.&nbsp;</p>",
+    "_id": "5c3776930113e36b24181ec9",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e70",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_transcript": "<p>In this activity, the learner selects the Records section of the website, then selects the Current medication option from the list of available records. This lists all the medication that Norah is currently taking.&nbsp;</p><p>This is to explain&nbsp;how to access medical records online on a GP&#39;s website.</p>",
+    "_mobileAlternative": true,
+    "_mobileAlternativeCondition": "small",
+    "_mobileAlternativeDisplayTitle": "Finding Norah's medicine list",
+    "_mobileAlternativeText": "<p dir=\"ltr\">Unfortunately this activity is not compatible with your device.</p><p dir=\"ltr\">If you would like to practise using your skills with this activity, please open this course on a device with a larger screen.</p><p dir=\"ltr\">In this activity you would practise accessing online medical records. First you would&nbsp;select&nbsp;the Records section of the website, then select&nbsp;the Current medication option from the list of available records. This would list&nbsp;all the medication that is currently prescribed.&nbsp;</p>",
+    "_mobileAlternativeGraphic": "",
+    "_pages": [
+      {
+        "_name": "FirstPage",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/06b569fe2c369577afd4f59eaf9953e95e7598b3.png",
+        "_backgroundColor": "",
+        "_layout": {
+          "layout": "backgroundImage"
+        },
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "First, Norah needs to select the Records section of the website. <p></p>Select the <b>Records</b> button.",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Correct",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "RecordsButton",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "gotoPage",
+                "_args": "RecordsPage",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong1",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right.<p></p>You need to select the <b>Records</b> button.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "highlightObject",
+                "_args": "RecordsButton",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong2",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right.<p></p>This is how it's done.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "showObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "4000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateMoveTo",
+                "_args": "RecordsButton",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "gotoPage",
+                "_args": "RecordsPage",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": [
+          {
+            "_name": "RecordsButton",
+            "_type": "hotspot",
+            "_position": {
+              "x": 618,
+              "y": 89,
+              "w": 163,
+              "h": 52
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "Mouse",
+            "_type": "sprite",
+            "_position": {
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 32
+            },
+            "_classes": "",
+            "_hidden": true,
+            "text": "",
+            "_asset": "course/en/assets/bee5f98ffa0aee5e50649603828a75f2246e4e3d.png"
+          }
+        ]
+      },
+      {
+        "_name": "RecordsPage",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/ff8af714d8c099a8552c53250d05a5bf979552fc.png",
+        "_backgroundColor": "",
+        "_layout": {
+          "layout": "backgroundImage"
+        },
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Good. Next, select the <b>Current medication</b> option from the list of records.",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Correct",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "CurrentMedicationButton",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "gotoPage",
+                "_args": "LastPage",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong1",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right.<p></p>You need to select the <b>Current medication</b> item.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "highlightObject",
+                "_args": "CurrentMedicationButton",
+                "_argsParam": ""
+              },
+              {
+                "_action": "disableEvent",
+                "_args": "Wrong1",
+                "_argsParam": ""
+              },
+              {
+                "_action": "enableEvent",
+                "_args": "Wrong2",
+                "_argsParam": ""
+              }
+            ]
+          },
+          {
+            "_name": "Wrong2",
+            "_disabled": true,
+            "_trigger": {
+              "_object": "page",
+              "on": "click",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Sorry, that's not right. <p></p>This is how it's done.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "showObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateObject",
+                "_args": "Mouse",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateDuration",
+                "_args": "4000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "animateMoveTo",
+                "_args": "CurrentMedicationButton",
+                "_argsParam": ""
+              },
+              {
+                "_action": "wait",
+                "_args": "1000",
+                "_argsParam": ""
+              },
+              {
+                "_action": "gotoPage",
+                "_args": "LastPage",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": [
+          {
+            "_name": "CurrentMedicationButton",
+            "_type": "hotspot",
+            "_position": {
+              "x": 43,
+              "y": 254,
+              "w": 220,
+              "h": 35
+            },
+            "_classes": "transparent borderless",
+            "_hidden": false,
+            "text": "",
+            "_asset": ""
+          },
+          {
+            "_name": "Mouse",
+            "_type": "sprite",
+            "_position": {
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 32
+            },
+            "_classes": "",
+            "_hidden": true,
+            "text": "",
+            "_asset": "course/en/assets/bee5f98ffa0aee5e50649603828a75f2246e4e3d.png"
+          }
+        ]
+      },
+      {
+        "_name": "LastPage",
+        "displayTitle": "",
+        "_backgroundImage": "course/en/assets/e29b5823d86f175e2ac751f03c5ce5d8cf49dcdc.png",
+        "_backgroundColor": "",
+        "_layout": {
+          "layout": "backgroundImage"
+        },
+        "_events": [
+          {
+            "_name": "PageLoad",
+            "_disabled": false,
+            "_trigger": {
+              "_object": "page",
+              "on": "activity:pageLoad",
+              "key": 0,
+              "keyInvert": false
+            },
+            "_conditions": [],
+            "_actions": [
+              {
+                "_action": "clearAndShowInstruction",
+                "_args": "Good work. You've helped Norah find her current medical records.<p></p>From here Norah can print a list of all her medication.<p></p>You can now press <b>Close</b> if you have finished. <p></p>Press <b>Restart</b> if you want to try again.",
+                "_argsParam": ""
+              },
+              {
+                "_action": "completeActivity",
+                "_args": "",
+                "_argsParam": ""
+              }
+            ]
+          }
+        ],
+        "_objects": []
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Is your GP online?",
+    "displayTitle": "Is your GP online?",
+    "body": "<p>Tina visits the NHS website to find out if her GP has these services online.</p>",
+    "_id": "5c3776930113e36b24181ecf",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5c3776920113e36b24181e68",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "Select the 'Next' button to find out more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>On the NHS website, Tina selects <strong>Services near you</strong>&nbsp;heading so that she can search for her GP.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/cd846d84a76249a3e0b64d027a83ae66e374687f.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Services near you"
+      },
+      {
+        "title": "",
+        "body": "<p>Next, she types&nbsp;<strong>GP</strong>&nbsp;in the first box to say what she is looking for.</p><p>Then she types the first part of her postcode SO16 in to the <strong>Location</strong> box.</p>",
+        "_graphic": {
+          "src": "course/en/assets/1eada4c8e1d8aea21bcb949f8ceab33038ede390.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Search for GP"
+      },
+      {
+        "title": "",
+        "body": "<p>Tina can see her doctor at the top of the search results.</p><p>The right-hand columns tell her they do offer online services.</p>",
+        "_graphic": {
+          "src": "course/en/assets/5c3161f1bde71ce564a860d9539db2d56051dd9f.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Online services"
+      }
+    ]
+  }
+]

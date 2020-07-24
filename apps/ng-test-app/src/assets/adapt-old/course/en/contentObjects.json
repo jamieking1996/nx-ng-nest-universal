@@ -1,0 +1,152 @@
+[
+  {
+    "title": "GP services online: a how-to guide",
+    "displayTitle": "GP services online: a how-to guide",
+    "body": "<p>Most GPs will have a website and offer some online services, you can find out more about these with&nbsp;GP services online: a how-to guide.</p>\n\n<p>Select the &#39;Start&#39; button to begin.</p>\n",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "40 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c3776920113e36b24181e53",
+    "_type": "menu",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/a84dd72400225a1da3970f33a1541ca01f88a04f.png"
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "Register with your GP's website",
+    "displayTitle": "Register with your GP's website",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "10 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c3776920113e36b24181e55",
+    "_type": "page",
+    "_parentId": "5c3776920113e36b24181e53",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/af4466a577dc44e050d812618ffa76c214017142.png"
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "Book an appointment with your GP",
+    "displayTitle": "Book an appointment with your GP",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "10 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c3776920113e36b24181e57",
+    "_type": "page",
+    "_parentId": "5c3776920113e36b24181e53",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/0b7587b046605da660b76d4294ee27cbb9a3ae5d.png"
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "Order a repeat prescription from your GP",
+    "displayTitle": "Order a repeat prescription from your GP",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "10 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c3776920113e36b24181e59",
+    "_type": "page",
+    "_parentId": "5c3776920113e36b24181e53",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/670f0261254791157d7c720936c02b6b94a52a8e.png"
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "See your health records",
+    "displayTitle": "See your health records",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "10 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c3776920113e36b24181e5b",
+    "_type": "page",
+    "_parentId": "5c3776920113e36b24181e53",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6a41a33ab31067ea0b9ad1dec6920aeacd986803.png"
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  }
+]

@@ -16,9 +16,10 @@ import { HttpClientModule } from '@angular/common/http';
 import { HeaderComponent } from './components/header/header.component';
 import { MetaTagsComponent } from './components/meta-tags/meta-tags.component';
 import { AdaptComponent } from './components/adapt/adapt.component';
+import { AdaptOldComponent } from './components/adapt-old/adapt-old.component';
 
 @NgModule({
-  declarations: [AppComponent, HomeComponent, BlogsComponent, HeaderComponent, MetaTagsComponent, AdaptComponent],
+  declarations: [AppComponent, HomeComponent, BlogsComponent, HeaderComponent, MetaTagsComponent, AdaptComponent, AdaptOldComponent],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
     HttpClientModule,

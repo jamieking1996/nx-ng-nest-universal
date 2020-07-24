@@ -37,7 +37,6 @@ export class AdaptComponent implements OnInit {
       })
     };
     ADL.XAPIWrapper.changeConfig(conf);
-
   }
 
   public addxApiWrapper() {

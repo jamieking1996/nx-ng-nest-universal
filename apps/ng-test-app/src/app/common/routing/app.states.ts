@@ -3,6 +3,7 @@ import { HomeComponent } from '../../components/home/home.component';
 import { BlogsComponent } from '../../components/blogs/blogs.component';
 import { BlogGuard } from './blog.guard';
 import { AdaptComponent } from '../../components/adapt/adapt.component';
+import { AdaptOldComponent } from '../../components/adapt-old/adapt-old.component';
 
 export const rootState: Route = {
     path: '',
@@ -20,5 +21,10 @@ export const adaptState:Route = {
     component: AdaptComponent
 }
 
+export const adaptOldState:Route = {
+    path: 'adapt-old',
+    component: AdaptOldComponent
+}
 
-export const AppStates = [rootState, blogsState, adaptState];
+
+export const AppStates = [rootState, blogsState, adaptState, adaptOldState];
